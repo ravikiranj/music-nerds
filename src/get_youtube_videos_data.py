@@ -1,7 +1,5 @@
 #!/usr/bin/env python
 
-#curl 'https://www.googleapis.com/youtube/v3/videos?key=AIzaSyAQ1Z8XFIF4GP5Yph6ohaqHZJ6NOzFNpvk&part=snippet&id=2Ox1Tore9nw&maxResults=1'
-
 import simplejson
 import logging
 import re
