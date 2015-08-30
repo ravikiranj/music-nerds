@@ -55,7 +55,7 @@ max_res = 1000
 current_result = 0
 next_date = today
 while next_date is not None:
-    op_file = "../data/room_history_%02d.json" % current_result
+    op_file = "../data/raw/room_history_%02d.json" % current_result
     if current_result == 0:
         next_date_str = get_res(base_url, str(next_date), max_res, op_file)
         next_date = get_fixed_next_date(next_date_str)
