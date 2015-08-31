@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Music Nerds Recommendations</title>
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/bootstrap-theme.min.css" rel="stylesheet">
+    <!-- Override -->
+    <link href="css/styles.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="js/html5shiv.min.js"></script>
+    <script src="js/respond.min.js"></script>
+    <![endif]-->
+</head>
+<!-- Includes -->
+{% import 'macros.html' as macros %}
+<body>
+    <h1>Music Nerds Recommendations</h1>
+    <nav class="navbar navbar-default">
+        <div class="container-fluid">
+            <ul class="nav nav-tabs" role="tablist">
+                <li role="presentation" class="active">
+                    <a href="#spotify-albums" aria-controls="spotify-albums" role="tab" data-toggle="tab">Spotify Albums</a>
+                </li>
+                <li role="presentation">
+                    <a href="#spotify-tracks" aria-controls="spotify-tracks" role="tab" data-toggle="tab">Spotify Tracks</a>
+                </li>
+                <li role="presentation">
+                    <a href="#youtube-videos" aria-controls="youtube-videos" role="tab" data-toggle="tab">YouTube</a>
+                </li>
+            </ul>
+            <!-- Tab panes -->
+            <div class="tab-content">
+                <div role="tabpanel" class="tab-pane fade in active" id="spotify-albums">
+                    <div class="tabpanel-list">
+                        {% for album in spotify_albums %}
+                            <div class="tabpanel-list-item">
+                                {{ macros.render_spotify_album(album, loop.index) }}
+                            </div>
+                        {% endfor %}
+                    </div>
+                </div>
+                <div role="tabpanel" class="tab-pane fade" id="spotify-tracks">
+                    <div class="tabpanel-list">
+                        {% for track in spotify_tracks %}
+                            <div class="tabpanel-list-item">
+                                {{ macros.render_spotify_track(track, loop.index) }}
+                            </div>
+                        {% endfor %}
+                    </div>
+                </div>
+                <div role="tabpanel" class="tab-pane fade" id="youtube-videos">
+                    <div class="tabpanel-list">
+                        {% for youtube_video in youtube_videos %}
+                            <div class="tabpanel-list-item">
+                                {{ macros.render_youtube_video(youtube_video, loop.index) }}
+                            </div>
+                        {% endfor %}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+    <script src="js/jquery-2.1.4.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/init.js"></script>
+</body>
+</html>

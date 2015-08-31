@@ -1,0 +1,50 @@
+<!-- Spotify Album -->
+{% macro render_spotify_album(album, index) -%}
+    <div class="item-count">{{ index }}.</div>
+    {% if album.image != None %}
+        <img class="music-item-image block-item" src="{{ album.image }}"></img>
+    {% else %}
+        <img class="music-item-image block-item" src="images/default_album_art.jpg"></img>
+    {% endif %}
+    <div class="music-item-info">
+        <div class="title-year">
+            <a class="music-link" href="{{ album.url }}">{{ album.title }} ({{ album.display_date }})</a>
+        </div>
+        <div class="artists">{{ album.artists }}</div>
+        <div class="recommend">Recommended by {{ album.from }}</div>
+    </div>
+{%- endmacro %}
+
+<!-- Spotify Track -->
+{% macro render_spotify_track(track, index) -%}
+    <div class="item-count">{{ index }}.</div>
+    {% if track.image != None %}
+        <img class="music-item-image block-item" src="{{ track.image }}"/>
+    {% else %}
+        <img class="music-item-image block-item" src="images/default_art.jpg"/>
+    {% endif %}
+    <div class="music-item-info">
+        <div class="title-year">
+            <a class="music-link" href="{{ track.url }}">{{ track.title }} ({{ track.display_date }})</a>
+        </div>
+        <div class="artists">{{ track.artists }}</div>
+        <div class="recommend">Recommended by {{ track.from }}</div>
+    </div>
+{%- endmacro %}
+
+<!-- YouTube Video -->
+{% macro render_youtube_video(youtube_video, index) -%}
+    <div class="item-count">{{ index }}.</div>
+    {% if youtube_video.image != None %}
+        <img class="music-item-image block-item" src="{{ youtube_video.image }}"/>
+    {% else %}
+        <img class="music-item-image block-item" src="images/default_art.jpg"/>
+    {% endif %}
+    <div class="music-item-info">
+        <div class="title">
+            <a class="music-link" href="{{ youtube_video.url }}">{{ youtube_video.title }}</a>
+        </div>
+        <div class="uploaded-date">Uploaded on {{ youtube_video.display_date }}</div>
+        <div class="recommend">Recommended by {{ youtube_video.from }}</div>
+    </div>
+{%- endmacro %}

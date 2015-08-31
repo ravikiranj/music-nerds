@@ -66,4 +66,7 @@ target/
 .idea/inspectionProfiles/*.xml
 
 # Output
-/out/
+out/
+
+# SASS
+static/.sass-cache/

@@ -83,7 +83,7 @@ def get_spotify_data(ip_file, type):
                 images = item["album"]["images"]
             if len(images) > 0:
                 image = images[len(images)-1]["url"]
-            music_item = {"id": id, "title": title, "display_date": date, "url": url, "artists": artists, "image": image}
+            music_item = {"id": id, "title": title, "display_date": date, "url": url, "artists": ', '.join(artists), "image": image}
             music_items[id] = music_item
     return music_items
 
@@ -112,7 +112,7 @@ def get_youtube_videos_data():
             date_str = snippet["publishedAt"]
             date = parse(date_str).strftime("%b %d, %Y")
             url = "https://www.youtube.com/watch?v=" + id
-            music_item = {"id": id, "title": title, "display_date": date, "url": url, "artists": None, "image": image}
+            music_item = {"id": id, "title": title, "display_date": date, "url": url, "artists": "", "image": image}
             music_items[id] = music_item
     return music_items
 
@@ -123,10 +123,15 @@ youtube_videos_data = get_youtube_videos_data()
 
 music_data = []
 missing_info_msg_count = 0
+ids_dict = set()
 for msg in music_msgs:
     info = None
     music_type = msg["type"]
     id = msg["id"]
+
+    if id in ids_dict:
+        continue
+
     music_data_item = msg
     if music_type == "spotify_album" and id in spotify_albums_data:
         info = spotify_albums_data[id]
@@ -148,6 +153,7 @@ for msg in music_msgs:
         music_data_item["msg_date"] = msg_date
 
         music_data.append(music_data_item)
+        ids_dict.add(id)
     else:
         logger.error("Couldn't find suitable info for %s", str(msg))
         missing_info_msg_count += 1

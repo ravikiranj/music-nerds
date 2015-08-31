@@ -1,8 +1,6 @@
 [
     {
-        "artists": [
-            "John Williams"
-        ],
+        "artists": "John Williams",
         "display_date": "1975",
         "from": "Ravikiran Janardhana",
         "id": "2PwxN5HtdQw652hvSWg80P",
@@ -14,9 +12,7 @@
         "url": "https://open.spotify.com/album/2PwxN5HtdQw652hvSWg80P"
     },
     {
-        "artists": [
-            "Glenn Gould"
-        ],
+        "artists": "Glenn Gould",
         "display_date": "1993",
         "from": "Ravikiran Janardhana",
         "id": "4riFxq9QsG0KHzMqQqJJZG",
@@ -28,9 +24,7 @@
         "url": "https://open.spotify.com/album/4riFxq9QsG0KHzMqQqJJZG"
     },
     {
-        "artists": [
-            "Gary Clark Jr."
-        ],
+        "artists": "Gary Clark Jr.",
         "display_date": null,
         "from": "Kip Landergren",
         "id": "6B7aI3crr9n5B2bXkrAfVN",
@@ -42,9 +36,7 @@
         "url": "https://open.spotify.com/track/6B7aI3crr9n5B2bXkrAfVN"
     },
     {
-        "artists": [
-            "Gary Clark Jr."
-        ],
+        "artists": "Gary Clark Jr.",
         "display_date": "2012",
         "from": "Kip Landergren",
         "id": "0YaeFHEYGpdzdFIxDRFvCv",
@@ -56,7 +48,7 @@
         "url": "https://open.spotify.com/album/0YaeFHEYGpdzdFIxDRFvCv"
     },
     {
-        "artists": null,
+        "artists": "",
         "display_date": "Apr 11, 2006",
         "from": "Brian Molnar",
         "id": "2Ox1Tore9nw",
@@ -68,7 +60,7 @@
         "url": "https://www.youtube.com/watch?v=2Ox1Tore9nw"
     },
     {
-        "artists": null,
+        "artists": "",
         "display_date": "Oct 27, 2007",
         "from": "Dharmin Majmudar",
         "id": "5V430M59Yn8",
@@ -80,9 +72,7 @@
         "url": "https://www.youtube.com/watch?v=5V430M59Yn8"
     },
     {
-        "artists": [
-            "Little Big Town"
-        ],
+        "artists": "Little Big Town",
         "display_date": null,
         "from": "Dharmin Majmudar",
         "id": "3duP6mBVDsHM8ioN7o7dAK",
@@ -94,9 +84,7 @@
         "url": "https://open.spotify.com/track/3duP6mBVDsHM8ioN7o7dAK"
     },
     {
-        "artists": [
-            "Pinback"
-        ],
+        "artists": "Pinback",
         "display_date": null,
         "from": "Kip Landergren",
         "id": "7af6pBnq7E8sEvUxjWcTqc",
@@ -108,9 +96,7 @@
         "url": "https://open.spotify.com/track/7af6pBnq7E8sEvUxjWcTqc"
     },
     {
-        "artists": [
-            "Bonobo"
-        ],
+        "artists": "Bonobo",
         "display_date": "2013",
         "from": "Kip Landergren",
         "id": "0y3ai6LH83qeeeCbmpaIvf",
@@ -122,9 +108,7 @@
         "url": "https://open.spotify.com/album/0y3ai6LH83qeeeCbmpaIvf"
     },
     {
-        "artists": [
-            "Blake Shelton"
-        ],
+        "artists": "Blake Shelton",
         "display_date": null,
         "from": "Dharmin Majmudar",
         "id": "289hx4t6fH2BBe8p6cnXo1",
@@ -136,7 +120,7 @@
         "url": "https://open.spotify.com/track/289hx4t6fH2BBe8p6cnXo1"
     },
     {
-        "artists": null,
+        "artists": "",
         "display_date": "Oct 03, 2006",
         "from": "Kip Landergren",
         "id": "PkDW-ETu7Io",
@@ -148,9 +132,7 @@
         "url": "https://www.youtube.com/watch?v=PkDW-ETu7Io"
     },
     {
-        "artists": [
-            "Pilli Bebek"
-        ],
+        "artists": "Pilli Bebek",
         "display_date": null,
         "from": "Kip Landergren",
         "id": "3nC6iMsN6ALaewr2LArtRQ",
@@ -162,7 +144,7 @@
         "url": "https://open.spotify.com/track/3nC6iMsN6ALaewr2LArtRQ"
     },
     {
-        "artists": null,
+        "artists": "",
         "display_date": "Sep 24, 2012",
         "from": "Brian Molnar",
         "id": "OJWJE0x7T4Q",
@@ -174,7 +156,7 @@
         "url": "https://www.youtube.com/watch?v=OJWJE0x7T4Q"
     },
     {
-        "artists": null,
+        "artists": "",
         "display_date": "Mar 29, 2011",
         "from": "Brian Molnar",
         "id": "1pkVLqSaahk",
@@ -186,7 +168,7 @@
         "url": "https://www.youtube.com/watch?v=1pkVLqSaahk"
     },
     {
-        "artists": null,
+        "artists": "",
         "display_date": "Apr 29, 2014",
         "from": "Brian Molnar",
         "id": "k0jReeAe3do",
@@ -198,19 +180,7 @@
         "url": "https://www.youtube.com/watch?v=k0jReeAe3do"
     },
     {
-        "artists": null,
-        "display_date": "Apr 29, 2014",
-        "from": "Brian Molnar",
-        "id": "k0jReeAe3do",
-        "image": "https://i.ytimg.com/vi/k0jReeAe3do/default.jpg",
-        "link": "http://www.youtube.com/watch?v=k0jReeAe3do",
-        "msg_date": "2015-01-27T23:24:25.236913+00:00",
-        "title": "Yes - I've Seen All Good People: Your Move / All Good People",
-        "type": "youtube_video",
-        "url": "https://www.youtube.com/watch?v=k0jReeAe3do"
-    },
-    {
-        "artists": null,
+        "artists": "",
         "display_date": "Jul 22, 2010",
         "from": "Ravikiran Janardhana",
         "id": "8b0fDIPP-u4",
@@ -222,9 +192,7 @@
         "url": "https://www.youtube.com/watch?v=8b0fDIPP-u4"
     },
     {
-        "artists": [
-            "Youth Lagoon"
-        ],
+        "artists": "Youth Lagoon",
         "display_date": "2013",
         "from": "Ravikiran Janardhana",
         "id": "7DE86YeTBrLVEV535L29SQ",
@@ -236,9 +204,7 @@
         "url": "https://open.spotify.com/album/7DE86YeTBrLVEV535L29SQ"
     },
     {
-        "artists": [
-            "Youth Lagoon"
-        ],
+        "artists": "Youth Lagoon",
         "display_date": null,
         "from": "Kip Landergren",
         "id": "0p2WKjJu5gEaetEN8uBKZv",
@@ -250,10 +216,7 @@
         "url": "https://open.spotify.com/track/0p2WKjJu5gEaetEN8uBKZv"
     },
     {
-        "artists": [
-            "Scottish National Orchestra",
-            "Jean Sibelius"
-        ],
+        "artists": "Scottish National Orchestra, Jean Sibelius",
         "display_date": "2002",
         "from": "Kip Landergren",
         "id": "3XpoVCK2vDFNOdbDybqPT3",
@@ -265,9 +228,7 @@
         "url": "https://open.spotify.com/album/3XpoVCK2vDFNOdbDybqPT3"
     },
     {
-        "artists": [
-            "Blue Sky Black Death"
-        ],
+        "artists": "Blue Sky Black Death",
         "display_date": "2011",
         "from": "Kip Landergren",
         "id": "05Hu2upmXcnye5TKXzUZpQ",
@@ -279,9 +240,7 @@
         "url": "https://open.spotify.com/album/05Hu2upmXcnye5TKXzUZpQ"
     },
     {
-        "artists": [
-            "Moon Hooch"
-        ],
+        "artists": "Moon Hooch",
         "display_date": null,
         "from": "Kip Landergren",
         "id": "1YT8xkroYGNLGR4qhuWLC4",
@@ -293,9 +252,7 @@
         "url": "https://open.spotify.com/track/1YT8xkroYGNLGR4qhuWLC4"
     },
     {
-        "artists": [
-            "hyperstory"
-        ],
+        "artists": "hyperstory",
         "display_date": null,
         "from": "Kip Landergren",
         "id": "6QJoURCxCYxUSSH9h8Sqmd",
@@ -307,9 +264,7 @@
         "url": "https://open.spotify.com/track/6QJoURCxCYxUSSH9h8Sqmd"
     },
     {
-        "artists": [
-            "hyperstory"
-        ],
+        "artists": "hyperstory",
         "display_date": "2009",
         "from": "Kip Landergren",
         "id": "48uGhOSANZRVQimciBT8Bt",
@@ -321,9 +276,7 @@
         "url": "https://open.spotify.com/album/48uGhOSANZRVQimciBT8Bt"
     },
     {
-        "artists": [
-            "Yngwie Malmsteen"
-        ],
+        "artists": "Yngwie Malmsteen",
         "display_date": "1985",
         "from": "Ravikiran Janardhana",
         "id": "1WT4VJPH0bp7YNJdAR62Ee",
@@ -335,9 +288,7 @@
         "url": "https://open.spotify.com/album/1WT4VJPH0bp7YNJdAR62Ee"
     },
     {
-        "artists": [
-            "Savages"
-        ],
+        "artists": "Savages",
         "display_date": "2013",
         "from": "Ravikiran Janardhana",
         "id": "0aMC5DDAF86GvYNPaivEKd",
@@ -349,9 +300,7 @@
         "url": "https://open.spotify.com/album/0aMC5DDAF86GvYNPaivEKd"
     },
     {
-        "artists": [
-            "Syd Barrett"
-        ],
+        "artists": "Syd Barrett",
         "display_date": "1970",
         "from": "Ravikiran Janardhana",
         "id": "4NPymgNRX8nRAvHVW8yJra",
@@ -363,7 +312,7 @@
         "url": "https://open.spotify.com/album/4NPymgNRX8nRAvHVW8yJra"
     },
     {
-        "artists": null,
+        "artists": "",
         "display_date": "Aug 11, 2012",
         "from": "Brian Molnar",
         "id": "msnacEo6dJ4",
@@ -375,9 +324,7 @@
         "url": "https://www.youtube.com/watch?v=msnacEo6dJ4"
     },
     {
-        "artists": [
-            "Caught A Ghost"
-        ],
+        "artists": "Caught A Ghost",
         "display_date": null,
         "from": "Kip Landergren",
         "id": "3eu6yCblDDyuqvDTkPZksu",
@@ -389,9 +336,7 @@
         "url": "https://open.spotify.com/track/3eu6yCblDDyuqvDTkPZksu"
     },
     {
-        "artists": [
-            "Bonobo"
-        ],
+        "artists": "Bonobo",
         "display_date": null,
         "from": "Kip Landergren",
         "id": "7sqii6BhIDpJChYpU3WjwS",
@@ -403,9 +348,7 @@
         "url": "https://open.spotify.com/track/7sqii6BhIDpJChYpU3WjwS"
     },
     {
-        "artists": [
-            "Emancipator"
-        ],
+        "artists": "Emancipator",
         "display_date": "2010",
         "from": "Kip Landergren",
         "id": "1KHKPYKo4h8btHa8u3wjEB",
@@ -417,7 +360,7 @@
         "url": "https://open.spotify.com/album/1KHKPYKo4h8btHa8u3wjEB"
     },
     {
-        "artists": null,
+        "artists": "",
         "display_date": "May 06, 2007",
         "from": "Brian Molnar",
         "id": "ZfKA4b5SFq4",
@@ -429,9 +372,7 @@
         "url": "https://www.youtube.com/watch?v=ZfKA4b5SFq4"
     },
     {
-        "artists": [
-            "Glenn Gould"
-        ],
+        "artists": "Glenn Gould",
         "display_date": "2004",
         "from": "Ravikiran Janardhana",
         "id": "0Fr2HZsXHs8rQYUBNvGu8o",
@@ -443,9 +384,7 @@
         "url": "https://open.spotify.com/album/0Fr2HZsXHs8rQYUBNvGu8o"
     },
     {
-        "artists": [
-            "R.E.M."
-        ],
+        "artists": "R.E.M.",
         "display_date": null,
         "from": "Kip Landergren",
         "id": "30EN9Tgoc1nZfoUD6pNapa",
@@ -457,9 +396,7 @@
         "url": "https://open.spotify.com/track/30EN9Tgoc1nZfoUD6pNapa"
     },
     {
-        "artists": [
-            "Alabama Shakes"
-        ],
+        "artists": "Alabama Shakes",
         "display_date": "2012",
         "from": "Kip Landergren",
         "id": "6EoJL3ty0FyE7XmLpAX2sj",
@@ -471,9 +408,7 @@
         "url": "https://open.spotify.com/album/6EoJL3ty0FyE7XmLpAX2sj"
     },
     {
-        "artists": [
-            "Wax Tailor"
-        ],
+        "artists": "Wax Tailor",
         "display_date": null,
         "from": "Kip Landergren",
         "id": "0Dv7jFrqF1f40aMd5KLEZ1",
@@ -485,7 +420,7 @@
         "url": "https://open.spotify.com/track/0Dv7jFrqF1f40aMd5KLEZ1"
     },
     {
-        "artists": null,
+        "artists": "",
         "display_date": "Jul 27, 2008",
         "from": "Ravikiran Janardhana",
         "id": "m9ohBMozCzI",
@@ -497,9 +432,7 @@
         "url": "https://www.youtube.com/watch?v=m9ohBMozCzI"
     },
     {
-        "artists": [
-            "Christopher Lee"
-        ],
+        "artists": "Christopher Lee",
         "display_date": "2013",
         "from": "Kazim Bugra Tombul",
         "id": "0H1VQTDD3mKSUtQQtwmBLR",
@@ -511,9 +444,7 @@
         "url": "https://open.spotify.com/album/0H1VQTDD3mKSUtQQtwmBLR"
     },
     {
-        "artists": [
-            "Jack White"
-        ],
+        "artists": "Jack White",
         "display_date": null,
         "from": "Kip Landergren",
         "id": "0jBDPy1GFnrt8dT7zrUT2I",
@@ -525,7 +456,7 @@
         "url": "https://open.spotify.com/track/0jBDPy1GFnrt8dT7zrUT2I"
     },
     {
-        "artists": null,
+        "artists": "",
         "display_date": "May 20, 2014",
         "from": "Ravikiran Janardhana",
         "id": "P7YMI39sObY",
@@ -537,9 +468,7 @@
         "url": "https://www.youtube.com/watch?v=P7YMI39sObY"
     },
     {
-        "artists": [
-            "Ludovico Einaudi"
-        ],
+        "artists": "Ludovico Einaudi",
         "display_date": "2006",
         "from": "Kip Landergren",
         "id": "3DsmdqubpBNPJvCf2mc0XP",
@@ -551,7 +480,7 @@
         "url": "https://open.spotify.com/album/3DsmdqubpBNPJvCf2mc0XP"
     },
     {
-        "artists": null,
+        "artists": "",
         "display_date": "May 23, 2014",
         "from": "Ravikiran Janardhana",
         "id": "R56ERxHtvkI",
@@ -563,9 +492,7 @@
         "url": "https://www.youtube.com/watch?v=R56ERxHtvkI"
     },
     {
-        "artists": [
-            "Van Morrison"
-        ],
+        "artists": "Van Morrison",
         "display_date": null,
         "from": "Kip Landergren",
         "id": "4dBI72rgkmG0gTzswyBTzz",
@@ -577,7 +504,7 @@
         "url": "https://open.spotify.com/track/4dBI72rgkmG0gTzswyBTzz"
     },
     {
-        "artists": null,
+        "artists": "",
         "display_date": "Sep 28, 2010",
         "from": "Brian Molnar",
         "id": "UWwWQYBS5xo",
@@ -589,7 +516,7 @@
         "url": "https://www.youtube.com/watch?v=UWwWQYBS5xo"
     },
     {
-        "artists": null,
+        "artists": "",
         "display_date": "Jun 24, 2014",
         "from": "Ravikiran Janardhana",
         "id": "LLRd6B9FsuE",
@@ -601,7 +528,7 @@
         "url": "https://www.youtube.com/watch?v=LLRd6B9FsuE"
     },
     {
-        "artists": null,
+        "artists": "",
         "display_date": "Jul 26, 2010",
         "from": "Ravikiran Janardhana",
         "id": "qDhc4hmfeIc",
@@ -613,9 +540,7 @@
         "url": "https://www.youtube.com/watch?v=qDhc4hmfeIc"
     },
     {
-        "artists": [
-            "Father John Misty"
-        ],
+        "artists": "Father John Misty",
         "display_date": null,
         "from": "Kip Landergren",
         "id": "4C0rGNpTIPTCVRiT4XKYMa",
@@ -627,9 +552,7 @@
         "url": "https://open.spotify.com/track/4C0rGNpTIPTCVRiT4XKYMa"
     },
     {
-        "artists": [
-            "MisterWives"
-        ],
+        "artists": "MisterWives",
         "display_date": null,
         "from": "Kip Landergren",
         "id": "2PtBhfoPZ6VYtXkrE5FrCH",
@@ -641,9 +564,7 @@
         "url": "https://open.spotify.com/track/2PtBhfoPZ6VYtXkrE5FrCH"
     },
     {
-        "artists": [
-            "Coyote Run"
-        ],
+        "artists": "Coyote Run",
         "display_date": null,
         "from": "Kip Landergren",
         "id": "1X4yxrhwMNUHg0kJyVLF7f",
@@ -655,7 +576,7 @@
         "url": "https://open.spotify.com/track/1X4yxrhwMNUHg0kJyVLF7f"
     },
     {
-        "artists": null,
+        "artists": "",
         "display_date": "Oct 27, 2009",
         "from": "Kip Landergren",
         "id": "hHcyJPTTn9w",
@@ -667,9 +588,7 @@
         "url": "https://www.youtube.com/watch?v=hHcyJPTTn9w"
     },
     {
-        "artists": [
-            "JJ Grey & Mofro"
-        ],
+        "artists": "JJ Grey & Mofro",
         "display_date": null,
         "from": "Kip Landergren",
         "id": "3UWdtdvMeFoBQ2UvNUTgGZ",
@@ -681,9 +600,7 @@
         "url": "https://open.spotify.com/track/3UWdtdvMeFoBQ2UvNUTgGZ"
     },
     {
-        "artists": [
-            "Buju Banton"
-        ],
+        "artists": "Buju Banton",
         "display_date": null,
         "from": "Kip Landergren",
         "id": "12BLbjxwEa880uzys2iEUd",
@@ -695,9 +612,7 @@
         "url": "https://open.spotify.com/track/12BLbjxwEa880uzys2iEUd"
     },
     {
-        "artists": [
-            "Visioneers"
-        ],
+        "artists": "Visioneers",
         "display_date": null,
         "from": "Kip Landergren",
         "id": "62Sth6W1iiurMorzfUoDfu",
@@ -709,9 +624,7 @@
         "url": "https://open.spotify.com/track/62Sth6W1iiurMorzfUoDfu"
     },
     {
-        "artists": [
-            "Jos\u00e9 Gonz\u00e1lez"
-        ],
+        "artists": "Jos\u00e9 Gonz\u00e1lez",
         "display_date": "2015",
         "from": "Kip Landergren",
         "id": "3mDpDgTVy3Lo6fdqoTr215",
@@ -723,9 +636,7 @@
         "url": "https://open.spotify.com/album/3mDpDgTVy3Lo6fdqoTr215"
     },
     {
-        "artists": [
-            "Other Lives"
-        ],
+        "artists": "Other Lives",
         "display_date": null,
         "from": "Kip Landergren",
         "id": "3SqJsf3qaikWdqhAcrH0La",
@@ -737,7 +648,7 @@
         "url": "https://open.spotify.com/track/3SqJsf3qaikWdqhAcrH0La"
     },
     {
-        "artists": null,
+        "artists": "",
         "display_date": "Aug 01, 2011",
         "from": "Ravikiran Janardhana",
         "id": "33nX8ZZK9sU",
@@ -749,9 +660,7 @@
         "url": "https://www.youtube.com/watch?v=33nX8ZZK9sU"
     },
     {
-        "artists": [
-            "James Blunt"
-        ],
+        "artists": "James Blunt",
         "display_date": null,
         "from": "Kip Landergren",
         "id": "6H2NtlZr110yO3uwphiTKk",
@@ -763,9 +672,7 @@
         "url": "https://open.spotify.com/track/6H2NtlZr110yO3uwphiTKk"
     },
     {
-        "artists": [
-            "Red Hot Chili Peppers"
-        ],
+        "artists": "Red Hot Chili Peppers",
         "display_date": null,
         "from": "Kip Landergren",
         "id": "5ZISTTuh3YIBtYsCvBKk5w",
@@ -777,7 +684,7 @@
         "url": "https://open.spotify.com/track/5ZISTTuh3YIBtYsCvBKk5w"
     },
     {
-        "artists": null,
+        "artists": "",
         "display_date": "Apr 15, 2014",
         "from": "Ravikiran Janardhana",
         "id": "1lW67ZyCITM",
@@ -789,9 +696,7 @@
         "url": "https://www.youtube.com/watch?v=1lW67ZyCITM"
     },
     {
-        "artists": [
-            "Fink"
-        ],
+        "artists": "Fink",
         "display_date": null,
         "from": "Kip Landergren",
         "id": "5eaDs2LoaQtjxRBSj0rB9i",
@@ -803,9 +708,7 @@
         "url": "https://open.spotify.com/track/5eaDs2LoaQtjxRBSj0rB9i"
     },
     {
-        "artists": [
-            "Andy Shauf"
-        ],
+        "artists": "Andy Shauf",
         "display_date": null,
         "from": "Kip Landergren",
         "id": "5u6TnX7ZiyxSV0kHRtIROU",
@@ -817,9 +720,7 @@
         "url": "https://open.spotify.com/track/5u6TnX7ZiyxSV0kHRtIROU"
     },
     {
-        "artists": [
-            "Kelis"
-        ],
+        "artists": "Kelis",
         "display_date": null,
         "from": "Kip Landergren",
         "id": "2hjFqlQiYpoAvbggL5Ze3R",
@@ -831,10 +732,7 @@
         "url": "https://open.spotify.com/track/2hjFqlQiYpoAvbggL5Ze3R"
     },
     {
-        "artists": [
-            "Stevie Ray Vaughan",
-            "Double Trouble"
-        ],
+        "artists": "Stevie Ray Vaughan, Double Trouble",
         "display_date": "1991",
         "from": "Kip Landergren",
         "id": "7pBJuCKTNKFLf6JztTYv6B",
@@ -846,7 +744,7 @@
         "url": "https://open.spotify.com/album/7pBJuCKTNKFLf6JztTYv6B"
     },
     {
-        "artists": null,
+        "artists": "",
         "display_date": "Oct 28, 2007",
         "from": "Kip Landergren",
         "id": "adV8-_hgL4g",
@@ -858,7 +756,7 @@
         "url": "https://www.youtube.com/watch?v=adV8-_hgL4g"
     },
     {
-        "artists": null,
+        "artists": "",
         "display_date": "Apr 10, 2010",
         "from": "Uddhav Kambli",
         "id": "_BsZt_3MifU",
@@ -870,7 +768,7 @@
         "url": "https://www.youtube.com/watch?v=_BsZt_3MifU"
     },
     {
-        "artists": null,
+        "artists": "",
         "display_date": "May 01, 2009",
         "from": "Ravikiran Janardhana",
         "id": "Mwx3RvDWvDM",
@@ -882,7 +780,7 @@
         "url": "https://www.youtube.com/watch?v=Mwx3RvDWvDM"
     },
     {
-        "artists": null,
+        "artists": "",
         "display_date": "May 13, 2013",
         "from": "Ravikiran Janardhana",
         "id": "zkH3PdDZZuA",
@@ -894,9 +792,7 @@
         "url": "https://www.youtube.com/watch?v=zkH3PdDZZuA"
     },
     {
-        "artists": [
-            "Thievery Corporation"
-        ],
+        "artists": "Thievery Corporation",
         "display_date": "2002",
         "from": "Kip Landergren",
         "id": "7qJaVqhgiBtPLb9MOzwmZA",
@@ -908,7 +804,7 @@
         "url": "https://open.spotify.com/album/7qJaVqhgiBtPLb9MOzwmZA"
     },
     {
-        "artists": null,
+        "artists": "",
         "display_date": "Mar 09, 2010",
         "from": "Ravikiran Janardhana",
         "id": "7GCz7MbBM_U",
@@ -920,9 +816,7 @@
         "url": "https://www.youtube.com/watch?v=7GCz7MbBM_U"
     },
     {
-        "artists": [
-            "Kid Loco"
-        ],
+        "artists": "Kid Loco",
         "display_date": null,
         "from": "Kip Landergren",
         "id": "7CUBB5yE9AtXQZANojfUUG",
@@ -934,7 +828,7 @@
         "url": "https://open.spotify.com/track/7CUBB5yE9AtXQZANojfUUG"
     },
     {
-        "artists": null,
+        "artists": "",
         "display_date": "Dec 16, 2009",
         "from": "Ravikiran Janardhana",
         "id": "ZEBGyPrLf_4",
@@ -946,13 +840,7 @@
         "url": "https://www.youtube.com/watch?v=ZEBGyPrLf_4"
     },
     {
-        "artists": [
-            "Gustav Holst",
-            "Stuttgart Southwest Radio Vocal Ensemble",
-            "Stuttgart State Opera Chorus",
-            "Stuttgart Radio Symphony Orchestra",
-            "Sir Roger Norrington"
-        ],
+        "artists": "Gustav Holst, Stuttgart Southwest Radio Vocal Ensemble, Stuttgart State Opera Chorus, Stuttgart Radio Symphony Orchestra, Sir Roger Norrington",
         "display_date": null,
         "from": "Kip Landergren",
         "id": "7pHdkCXkeC8AYHMcIDzUdf",
@@ -964,9 +852,7 @@
         "url": "https://open.spotify.com/track/7pHdkCXkeC8AYHMcIDzUdf"
     },
     {
-        "artists": [
-            "Gnarls Barkley"
-        ],
+        "artists": "Gnarls Barkley",
         "display_date": "2008",
         "from": "Kip Landergren",
         "id": "3R2TOuSPrGi3jNafJNFixD",
@@ -978,9 +864,7 @@
         "url": "https://open.spotify.com/album/3R2TOuSPrGi3jNafJNFixD"
     },
     {
-        "artists": [
-            "Gnarls Barkley"
-        ],
+        "artists": "Gnarls Barkley",
         "display_date": null,
         "from": "Kip Landergren",
         "id": "6N7YkCy1oSMRsaZSoz5VlS",
@@ -992,9 +876,7 @@
         "url": "https://open.spotify.com/track/6N7YkCy1oSMRsaZSoz5VlS"
     },
     {
-        "artists": [
-            "Thievery Corporation"
-        ],
+        "artists": "Thievery Corporation",
         "display_date": null,
         "from": "Kip Landergren",
         "id": "6gwPxZx8450DDd6dsS2vAJ",
@@ -1006,10 +888,7 @@
         "url": "https://open.spotify.com/track/6gwPxZx8450DDd6dsS2vAJ"
     },
     {
-        "artists": [
-            "Zolt\u00e1n Kod\u00e1ly",
-            "Alisa Weilerstein"
-        ],
+        "artists": "Zolt\u00e1n Kod\u00e1ly, Alisa Weilerstein",
         "display_date": null,
         "from": "Kip Landergren",
         "id": "2lO7JQ3RiDPIuLhlL9VRiG",
@@ -1021,9 +900,7 @@
         "url": "https://open.spotify.com/track/2lO7JQ3RiDPIuLhlL9VRiG"
     },
     {
-        "artists": [
-            "The Donkeys"
-        ],
+        "artists": "The Donkeys",
         "display_date": "2006",
         "from": "Kip Landergren",
         "id": "46B2ckkjlwF0mTXb0Y0QDA",
@@ -1035,9 +912,7 @@
         "url": "https://open.spotify.com/album/46B2ckkjlwF0mTXb0Y0QDA"
     },
     {
-        "artists": [
-            "Alabama Shakes"
-        ],
+        "artists": "Alabama Shakes",
         "display_date": null,
         "from": "Kip Landergren",
         "id": "5XW3v6HJQWmPlOFnLG4k4D",
@@ -1049,9 +924,7 @@
         "url": "https://open.spotify.com/track/5XW3v6HJQWmPlOFnLG4k4D"
     },
     {
-        "artists": [
-            "Nick Drake"
-        ],
+        "artists": "Nick Drake",
         "display_date": "1972",
         "from": "Kip Landergren",
         "id": "7KyvfoQhqlNLPNb98yY0pf",
@@ -1063,10 +936,7 @@
         "url": "https://open.spotify.com/album/7KyvfoQhqlNLPNb98yY0pf"
     },
     {
-        "artists": [
-            "POLI\u00c7A",
-            "Justin Vernon"
-        ],
+        "artists": "POLI\u00c7A, Justin Vernon",
         "display_date": null,
         "from": "Kip Landergren",
         "id": "6WISW4ZlyvFv45IrBC4ZjN",
@@ -1078,9 +948,7 @@
         "url": "https://open.spotify.com/track/6WISW4ZlyvFv45IrBC4ZjN"
     },
     {
-        "artists": [
-            "Lynyrd Skynyrd"
-        ],
+        "artists": "Lynyrd Skynyrd",
         "display_date": "1973",
         "from": "Kip Landergren",
         "id": "6DExt1eX4lflLacVjHHbOs",
@@ -1092,9 +960,7 @@
         "url": "https://open.spotify.com/album/6DExt1eX4lflLacVjHHbOs"
     },
     {
-        "artists": [
-            "Ted Nugent"
-        ],
+        "artists": "Ted Nugent",
         "display_date": null,
         "from": "Kip Landergren",
         "id": "7itr4N5bXkAWesPUomCNf7",
@@ -1106,9 +972,7 @@
         "url": "https://open.spotify.com/track/7itr4N5bXkAWesPUomCNf7"
     },
     {
-        "artists": [
-            "Volbeat"
-        ],
+        "artists": "Volbeat",
         "display_date": "2010",
         "from": "Kip Landergren",
         "id": "0IzDJ3kTqKbk9fDIOQmn76",
@@ -1120,7 +984,7 @@
         "url": "https://open.spotify.com/album/0IzDJ3kTqKbk9fDIOQmn76"
     },
     {
-        "artists": null,
+        "artists": "",
         "display_date": "Apr 24, 2015",
         "from": "Ryan Hurley",
         "id": "QRuM2rk2miQ",
@@ -1132,21 +996,7 @@
         "url": "https://www.youtube.com/watch?v=QRuM2rk2miQ"
     },
     {
-        "artists": [
-            "Ludovico Einaudi"
-        ],
-        "display_date": "2006",
-        "from": "Kip Landergren",
-        "id": "3DsmdqubpBNPJvCf2mc0XP",
-        "image": "https://i.scdn.co/image/8c08087446436d53a8a1d64099d332d02f0202a0",
-        "link": "http://open.spotify.com/album/3DsmdqubpBNPJvCf2mc0XP",
-        "msg_date": "2015-04-27T20:38:06.376907+00:00",
-        "title": "Divenire",
-        "type": "spotify_album",
-        "url": "https://open.spotify.com/album/3DsmdqubpBNPJvCf2mc0XP"
-    },
-    {
-        "artists": null,
+        "artists": "",
         "display_date": "Jun 16, 2009",
         "from": "Ravikiran Janardhana",
         "id": "hqJ8hFgYwVg",
@@ -1158,9 +1008,7 @@
         "url": "https://www.youtube.com/watch?v=hqJ8hFgYwVg"
     },
     {
-        "artists": [
-            "Little Red"
-        ],
+        "artists": "Little Red",
         "display_date": null,
         "from": "Kip Landergren",
         "id": "6YGA92lyFQAet21S92EJ2X",
@@ -1172,9 +1020,7 @@
         "url": "https://open.spotify.com/track/6YGA92lyFQAet21S92EJ2X"
     },
     {
-        "artists": [
-            "Ash Grunwald"
-        ],
+        "artists": "Ash Grunwald",
         "display_date": null,
         "from": "Kip Landergren",
         "id": "2qOHFoSiQYVBYzC7OkdUer",
@@ -1186,7 +1032,7 @@
         "url": "https://open.spotify.com/track/2qOHFoSiQYVBYzC7OkdUer"
     },
     {
-        "artists": null,
+        "artists": "",
         "display_date": "Nov 22, 2013",
         "from": "Ravikiran Janardhana",
         "id": "NmAtYPIcrls",
@@ -1198,23 +1044,7 @@
         "url": "https://www.youtube.com/watch?v=NmAtYPIcrls"
     },
     {
-        "artists": [
-            "Gary Clark Jr."
-        ],
-        "display_date": null,
-        "from": "Kip Landergren",
-        "id": "6B7aI3crr9n5B2bXkrAfVN",
-        "image": "https://i.scdn.co/image/0eff4773bb2fe783993b4a500e565751260315e7",
-        "link": "http://open.spotify.com/track/6B7aI3crr9n5B2bXkrAfVN",
-        "msg_date": "2015-05-04T20:42:06.521659+00:00",
-        "title": "Third Stone From The Sun/If You Love Me Like You Say",
-        "type": "spotify_track",
-        "url": "https://open.spotify.com/track/6B7aI3crr9n5B2bXkrAfVN"
-    },
-    {
-        "artists": [
-            "Jos\u00e9 Gonz\u00e1lez"
-        ],
+        "artists": "Jos\u00e9 Gonz\u00e1lez",
         "display_date": null,
         "from": "Kip Landergren",
         "id": "2ECHw3T5AkBXCrVzm346Sf",
@@ -1226,9 +1056,7 @@
         "url": "https://open.spotify.com/track/2ECHw3T5AkBXCrVzm346Sf"
     },
     {
-        "artists": [
-            "Florence + The Machine"
-        ],
+        "artists": "Florence + The Machine",
         "display_date": null,
         "from": "Kip Landergren",
         "id": "0VkrXEe27K8iV25jlLM7Tq",
@@ -1240,9 +1068,7 @@
         "url": "https://open.spotify.com/track/0VkrXEe27K8iV25jlLM7Tq"
     },
     {
-        "artists": [
-            "J.D. McPherson"
-        ],
+        "artists": "J.D. McPherson",
         "display_date": null,
         "from": "Kip Landergren",
         "id": "025glKhI2Jq0aNpbokV4eY",
@@ -1254,7 +1080,7 @@
         "url": "https://open.spotify.com/track/025glKhI2Jq0aNpbokV4eY"
     },
     {
-        "artists": null,
+        "artists": "",
         "display_date": "Sep 27, 2007",
         "from": "Ravikiran Janardhana",
         "id": "bonzZowYre0",
@@ -1266,9 +1092,7 @@
         "url": "https://www.youtube.com/watch?v=bonzZowYre0"
     },
     {
-        "artists": [
-            "Horse Feathers"
-        ],
+        "artists": "Horse Feathers",
         "display_date": null,
         "from": "Kip Landergren",
         "id": "3nCW0yyLh4goRf8gPBsbgZ",
@@ -1280,9 +1104,7 @@
         "url": "https://open.spotify.com/track/3nCW0yyLh4goRf8gPBsbgZ"
     },
     {
-        "artists": [
-            "Van Morrison"
-        ],
+        "artists": "Van Morrison",
         "display_date": "1968",
         "from": "Kip Landergren",
         "id": "4pG3bKkbmReDt5QTDn3JDz",
@@ -1294,23 +1116,7 @@
         "url": "https://open.spotify.com/album/4pG3bKkbmReDt5QTDn3JDz"
     },
     {
-        "artists": [
-            "Ludovico Einaudi"
-        ],
-        "display_date": "2006",
-        "from": "Kip Landergren",
-        "id": "3DsmdqubpBNPJvCf2mc0XP",
-        "image": "https://i.scdn.co/image/8c08087446436d53a8a1d64099d332d02f0202a0",
-        "link": "http://open.spotify.com/album/3DsmdqubpBNPJvCf2mc0XP",
-        "msg_date": "2015-06-10T21:26:42.347823+00:00",
-        "title": "Divenire",
-        "type": "spotify_album",
-        "url": "https://open.spotify.com/album/3DsmdqubpBNPJvCf2mc0XP"
-    },
-    {
-        "artists": [
-            "Junip"
-        ],
+        "artists": "Junip",
         "display_date": "2010",
         "from": "Kip Landergren",
         "id": "2DJ9AUCQOOgh3hsdid9VHa",
@@ -1322,9 +1128,7 @@
         "url": "https://open.spotify.com/album/2DJ9AUCQOOgh3hsdid9VHa"
     },
     {
-        "artists": [
-            "Jos\u00e9 Gonz\u00e1lez"
-        ],
+        "artists": "Jos\u00e9 Gonz\u00e1lez",
         "display_date": "2007",
         "from": "Kip Landergren",
         "id": "4zhb7QX3fvyamvbcYGnKMv",
@@ -1336,7 +1140,7 @@
         "url": "https://open.spotify.com/album/4zhb7QX3fvyamvbcYGnKMv"
     },
     {
-        "artists": null,
+        "artists": "",
         "display_date": "Jun 15, 2011",
         "from": "Ravikiran Janardhana",
         "id": "qUngfVi5p4k",
@@ -1348,9 +1152,7 @@
         "url": "https://www.youtube.com/watch?v=qUngfVi5p4k"
     },
     {
-        "artists": [
-            "Kurt Vile"
-        ],
+        "artists": "Kurt Vile",
         "display_date": null,
         "from": "Kip Landergren",
         "id": "3cSlU4ZH4wzb5pM7wI1k3f",
@@ -1362,9 +1164,7 @@
         "url": "https://open.spotify.com/track/3cSlU4ZH4wzb5pM7wI1k3f"
     },
     {
-        "artists": [
-            "Bonobo"
-        ],
+        "artists": "Bonobo",
         "display_date": null,
         "from": "Kip Landergren",
         "id": "4SxoponB2oxqjuOSNYhTjb",
@@ -1376,9 +1176,7 @@
         "url": "https://open.spotify.com/track/4SxoponB2oxqjuOSNYhTjb"
     },
     {
-        "artists": [
-            "Django Django"
-        ],
+        "artists": "Django Django",
         "display_date": "2015",
         "from": "Kip Landergren",
         "id": "1RTuHaRfUfWRSPed2o10Xd",
@@ -1390,9 +1188,7 @@
         "url": "https://open.spotify.com/album/1RTuHaRfUfWRSPed2o10Xd"
     },
     {
-        "artists": [
-            "Iron & Wine"
-        ],
+        "artists": "Iron & Wine",
         "display_date": null,
         "from": "Kip Landergren",
         "id": "5E5eB7hZ4WJaRJfl09skUg",
@@ -1404,9 +1200,7 @@
         "url": "https://open.spotify.com/track/5E5eB7hZ4WJaRJfl09skUg"
     },
     {
-        "artists": [
-            "J Dilla"
-        ],
+        "artists": "J Dilla",
         "display_date": null,
         "from": "Kip Landergren",
         "id": "3R8CATui5dGU42Ddbc2ixE",
@@ -1418,7 +1212,7 @@
         "url": "https://open.spotify.com/track/3R8CATui5dGU42Ddbc2ixE"
     },
     {
-        "artists": null,
+        "artists": "",
         "display_date": "Nov 19, 2013",
         "from": "Jason Brancazio",
         "id": "HMOU3qU3XB4",
@@ -1430,7 +1224,7 @@
         "url": "https://www.youtube.com/watch?v=HMOU3qU3XB4"
     },
     {
-        "artists": null,
+        "artists": "",
         "display_date": "Jun 24, 2009",
         "from": "Jason Brancazio",
         "id": "NAKuMnqMB_w",
@@ -1442,7 +1236,7 @@
         "url": "https://www.youtube.com/watch?v=NAKuMnqMB_w"
     },
     {
-        "artists": null,
+        "artists": "",
         "display_date": "May 17, 2015",
         "from": "Ravikiran Janardhana",
         "id": "9qA9rAaeEOs",
@@ -1454,9 +1248,7 @@
         "url": "https://www.youtube.com/watch?v=9qA9rAaeEOs"
     },
     {
-        "artists": [
-            "Cat Stevens"
-        ],
+        "artists": "Cat Stevens",
         "display_date": null,
         "from": "Kip Landergren",
         "id": "4bDIQEr0MPOHa2uMIqHkAc",
@@ -1468,7 +1260,7 @@
         "url": "https://open.spotify.com/track/4bDIQEr0MPOHa2uMIqHkAc"
     },
     {
-        "artists": null,
+        "artists": "",
         "display_date": "Oct 10, 2010",
         "from": "Ravikiran Janardhana",
         "id": "NwcnujxGBhY",
@@ -1480,11 +1272,7 @@
         "url": "https://www.youtube.com/watch?v=NwcnujxGBhY"
     },
     {
-        "artists": [
-            "Jean Sibelius",
-            "New Zealand Symphony Orchestra",
-            "Pietari Inkinen"
-        ],
+        "artists": "Jean Sibelius, New Zealand Symphony Orchestra, Pietari Inkinen",
         "display_date": null,
         "from": "Kip Landergren",
         "id": "0ncEWqQFhbI2Yl4DuThvEQ",
@@ -1496,23 +1284,7 @@
         "url": "https://open.spotify.com/track/0ncEWqQFhbI2Yl4DuThvEQ"
     },
     {
-        "artists": [
-            "Van Morrison"
-        ],
-        "display_date": "1968",
-        "from": "Kip Landergren",
-        "id": "4pG3bKkbmReDt5QTDn3JDz",
-        "image": "https://i.scdn.co/image/897b43a8d5be715dbc63f67a04bc23d69d6911be",
-        "link": "http://open.spotify.com/album/4pG3bKkbmReDt5QTDn3JDz",
-        "msg_date": "2015-06-29T16:17:45.816122+00:00",
-        "title": "Astral Weeks",
-        "type": "spotify_album",
-        "url": "https://open.spotify.com/album/4pG3bKkbmReDt5QTDn3JDz"
-    },
-    {
-        "artists": [
-            "Arlo Guthrie"
-        ],
+        "artists": "Arlo Guthrie",
         "display_date": null,
         "from": "Kip Landergren",
         "id": "4OjKHySJHstsImlUW3qfml",
@@ -1524,7 +1296,7 @@
         "url": "https://open.spotify.com/track/4OjKHySJHstsImlUW3qfml"
     },
     {
-        "artists": null,
+        "artists": "",
         "display_date": "Jan 07, 2012",
         "from": "Ravikiran Janardhana",
         "id": "0nrBy3qAuYI",
@@ -1536,9 +1308,7 @@
         "url": "https://www.youtube.com/watch?v=0nrBy3qAuYI"
     },
     {
-        "artists": [
-            "David Broza"
-        ],
+        "artists": "David Broza",
         "display_date": null,
         "from": "Kip Landergren",
         "id": "6w5eToNySYH8JBZIu9PiSP",
@@ -1550,9 +1320,7 @@
         "url": "https://open.spotify.com/track/6w5eToNySYH8JBZIu9PiSP"
     },
     {
-        "artists": [
-            "Guitar"
-        ],
+        "artists": "Guitar",
         "display_date": null,
         "from": "Kip Landergren",
         "id": "3onCShkfsN2n7jO8P6eQ47",
@@ -1564,9 +1332,7 @@
         "url": "https://open.spotify.com/track/3onCShkfsN2n7jO8P6eQ47"
     },
     {
-        "artists": [
-            "Bon Iver"
-        ],
+        "artists": "Bon Iver",
         "display_date": "2008",
         "from": "Kip Landergren",
         "id": "4SxFsOO0h4Nz3lFJuysKq5",
@@ -1578,7 +1344,7 @@
         "url": "https://open.spotify.com/album/4SxFsOO0h4Nz3lFJuysKq5"
     },
     {
-        "artists": null,
+        "artists": "",
         "display_date": "Jun 13, 2013",
         "from": "Vladimir Parfenov",
         "id": "JctRAu7RbAA",
@@ -1590,7 +1356,7 @@
         "url": "https://www.youtube.com/watch?v=JctRAu7RbAA"
     },
     {
-        "artists": null,
+        "artists": "",
         "display_date": "Aug 23, 2012",
         "from": "Jason Brancazio",
         "id": "f4V_5khp7ow",
@@ -1602,7 +1368,7 @@
         "url": "https://www.youtube.com/watch?v=f4V_5khp7ow"
     },
     {
-        "artists": null,
+        "artists": "",
         "display_date": "Aug 01, 2013",
         "from": "Vladimir Parfenov",
         "id": "t-JgJhLyw-w",
@@ -1614,7 +1380,7 @@
         "url": "https://www.youtube.com/watch?v=t-JgJhLyw-w"
     },
     {
-        "artists": null,
+        "artists": "",
         "display_date": "Jul 26, 2013",
         "from": "Vladimir Parfenov",
         "id": "lHswVBmIHAI",
@@ -1626,7 +1392,7 @@
         "url": "https://www.youtube.com/watch?v=lHswVBmIHAI"
     },
     {
-        "artists": null,
+        "artists": "",
         "display_date": "Aug 13, 2013",
         "from": "Ravikiran Janardhana",
         "id": "jrhDijafzVg",
@@ -1638,7 +1404,7 @@
         "url": "https://www.youtube.com/watch?v=jrhDijafzVg"
     },
     {
-        "artists": null,
+        "artists": "",
         "display_date": "Dec 31, 2010",
         "from": "Vladimir Parfenov",
         "id": "1hBPA6IWywE",
@@ -1650,7 +1416,7 @@
         "url": "https://www.youtube.com/watch?v=1hBPA6IWywE"
     },
     {
-        "artists": null,
+        "artists": "",
         "display_date": "Dec 07, 2012",
         "from": "Jason Brancazio",
         "id": "9f-NQZYCZnA",
@@ -1662,7 +1428,7 @@
         "url": "https://www.youtube.com/watch?v=9f-NQZYCZnA"
     },
     {
-        "artists": null,
+        "artists": "",
         "display_date": "Dec 01, 2013",
         "from": "Jason Brancazio",
         "id": "MAPeE7X_2IE",
@@ -1674,7 +1440,7 @@
         "url": "https://www.youtube.com/watch?v=MAPeE7X_2IE"
     },
     {
-        "artists": null,
+        "artists": "",
         "display_date": "Feb 01, 2011",
         "from": "Ravikiran Janardhana",
         "id": "QxSIXfYkJVA",
@@ -1686,7 +1452,7 @@
         "url": "https://www.youtube.com/watch?v=QxSIXfYkJVA"
     },
     {
-        "artists": null,
+        "artists": "",
         "display_date": "Feb 22, 2011",
         "from": "Vladimir Parfenov",
         "id": "Zj9Sv1JpmPs",
@@ -1698,7 +1464,7 @@
         "url": "https://www.youtube.com/watch?v=Zj9Sv1JpmPs"
     },
     {
-        "artists": null,
+        "artists": "",
         "display_date": "Oct 16, 2012",
         "from": "Vladimir Parfenov",
         "id": "eXgb7jcKLf8",
@@ -1710,7 +1476,7 @@
         "url": "https://www.youtube.com/watch?v=eXgb7jcKLf8"
     },
     {
-        "artists": null,
+        "artists": "",
         "display_date": "May 19, 2011",
         "from": "Jason Brancazio",
         "id": "2uKja4Ij75Y",
@@ -1722,7 +1488,7 @@
         "url": "https://www.youtube.com/watch?v=2uKja4Ij75Y"
     },
     {
-        "artists": null,
+        "artists": "",
         "display_date": "Dec 28, 2010",
         "from": "Vladimir Parfenov",
         "id": "DpNNsLhqH7s",
@@ -1734,10 +1500,7 @@
         "url": "https://www.youtube.com/watch?v=DpNNsLhqH7s"
     },
     {
-        "artists": [
-            "Iron & Wine",
-            "Ben Bridwell"
-        ],
+        "artists": "Iron & Wine, Ben Bridwell",
         "display_date": "2015",
         "from": "Kip Landergren",
         "id": "0jMBAo2pk2cEE0aJ3WseMl",
@@ -1749,23 +1512,7 @@
         "url": "https://open.spotify.com/album/0jMBAo2pk2cEE0aJ3WseMl"
     },
     {
-        "artists": [
-            "Kurt Vile"
-        ],
-        "display_date": null,
-        "from": "Kip Landergren",
-        "id": "3cSlU4ZH4wzb5pM7wI1k3f",
-        "image": "https://i.scdn.co/image/f078de4e9c42f7e68cb73bf9cbe9564bcc9c7d66",
-        "link": "http://open.spotify.com/track/3cSlU4ZH4wzb5pM7wI1k3f",
-        "msg_date": "2015-08-05T00:39:32.249164+00:00",
-        "title": "Wakin on a Pretty Day",
-        "type": "spotify_track",
-        "url": "https://open.spotify.com/track/3cSlU4ZH4wzb5pM7wI1k3f"
-    },
-    {
-        "artists": [
-            "Bear Hands"
-        ],
+        "artists": "Bear Hands",
         "display_date": null,
         "from": "Kip Landergren",
         "id": "1e5HZmpttPyXSqaNQiJU2j",
@@ -1777,9 +1524,7 @@
         "url": "https://open.spotify.com/track/1e5HZmpttPyXSqaNQiJU2j"
     },
     {
-        "artists": [
-            "Portugal. The Man"
-        ],
+        "artists": "Portugal. The Man",
         "display_date": null,
         "from": "Kip Landergren",
         "id": "1lpN3qsugqtMR49xwzHYnt",
@@ -1791,9 +1536,7 @@
         "url": "https://open.spotify.com/track/1lpN3qsugqtMR49xwzHYnt"
     },
     {
-        "artists": [
-            "Modest Mouse"
-        ],
+        "artists": "Modest Mouse",
         "display_date": null,
         "from": "Kip Landergren",
         "id": "2KqrlWhsVrSwZpzsUlsf22",
@@ -1805,9 +1548,7 @@
         "url": "https://open.spotify.com/track/2KqrlWhsVrSwZpzsUlsf22"
     },
     {
-        "artists": [
-            "My Morning Jacket"
-        ],
+        "artists": "My Morning Jacket",
         "display_date": null,
         "from": "Kip Landergren",
         "id": "1XqJU8TLwVCWOO6NUKhpSG",
@@ -1819,7 +1560,7 @@
         "url": "https://open.spotify.com/track/1XqJU8TLwVCWOO6NUKhpSG"
     },
     {
-        "artists": null,
+        "artists": "",
         "display_date": "Apr 21, 2013",
         "from": "Vladimir Parfenov",
         "id": "kKz9bomgI_M",
@@ -1831,9 +1572,7 @@
         "url": "https://www.youtube.com/watch?v=kKz9bomgI_M"
     },
     {
-        "artists": [
-            "Joywave"
-        ],
+        "artists": "Joywave",
         "display_date": null,
         "from": "Kip Landergren",
         "id": "2UbzSDEYP8eCg5K2a8d3PM",
@@ -1845,9 +1584,7 @@
         "url": "https://open.spotify.com/track/2UbzSDEYP8eCg5K2a8d3PM"
     },
     {
-        "artists": [
-            "Dusty Brown"
-        ],
+        "artists": "Dusty Brown",
         "display_date": "2011",
         "from": "Kip Landergren",
         "id": "3nJn4dlD723yA7VZg8Oh3J",
@@ -1859,9 +1596,7 @@
         "url": "https://open.spotify.com/album/3nJn4dlD723yA7VZg8Oh3J"
     },
     {
-        "artists": [
-            "Fritz Kalkbrenner"
-        ],
+        "artists": "Fritz Kalkbrenner",
         "display_date": "2012",
         "from": "Kip Landergren",
         "id": "6p0U9AVpw8b74NZqcm6JJE",
@@ -1873,7 +1608,7 @@
         "url": "https://open.spotify.com/album/6p0U9AVpw8b74NZqcm6JJE"
     },
     {
-        "artists": null,
+        "artists": "",
         "display_date": "Sep 04, 2013",
         "from": "Vladimir Parfenov",
         "id": "VkUq4sO4LQM",
@@ -1885,7 +1620,7 @@
         "url": "https://www.youtube.com/watch?v=VkUq4sO4LQM"
     },
     {
-        "artists": null,
+        "artists": "",
         "display_date": "Jun 14, 2013",
         "from": "Ravikiran Janardhana",
         "id": "57II8BHSCS4",
@@ -1897,7 +1632,7 @@
         "url": "https://www.youtube.com/watch?v=57II8BHSCS4"
     },
     {
-        "artists": null,
+        "artists": "",
         "display_date": "Sep 14, 2006",
         "from": "Vladimir Parfenov",
         "id": "u1ZGIrNf71Q",
@@ -1909,9 +1644,7 @@
         "url": "https://www.youtube.com/watch?v=u1ZGIrNf71Q"
     },
     {
-        "artists": [
-            "Highly Suspect"
-        ],
+        "artists": "Highly Suspect",
         "display_date": null,
         "from": "Kip Landergren",
         "id": "6sj9rODkg2fpS30JlWbb2t",
@@ -1923,9 +1656,7 @@
         "url": "https://open.spotify.com/track/6sj9rODkg2fpS30JlWbb2t"
     },
     {
-        "artists": [
-            "Desire"
-        ],
+        "artists": "Desire",
         "display_date": null,
         "from": "Kip Landergren",
         "id": "38vNwoJygRx1u77aJOV8Zb",
@@ -1937,9 +1668,7 @@
         "url": "https://open.spotify.com/track/38vNwoJygRx1u77aJOV8Zb"
     },
     {
-        "artists": [
-            "Iration"
-        ],
+        "artists": "Iration",
         "display_date": null,
         "from": "Kip Landergren",
         "id": "4f4y5UoDc6n0nwvhQYDyTE",
@@ -1951,7 +1680,7 @@
         "url": "https://open.spotify.com/track/4f4y5UoDc6n0nwvhQYDyTE"
     },
     {
-        "artists": null,
+        "artists": "",
         "display_date": "Apr 18, 2011",
         "from": "Brian Molnar",
         "id": "rptV6K7nqu0",
@@ -1963,9 +1692,7 @@
         "url": "https://www.youtube.com/watch?v=rptV6K7nqu0"
     },
     {
-        "artists": [
-            "Grouper"
-        ],
+        "artists": "Grouper",
         "display_date": "2014",
         "from": "Ravikiran Janardhana",
         "id": "5ElYoVUqRQIlDekD1v6aKa",
@@ -1977,7 +1704,7 @@
         "url": "https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa"
     },
     {
-        "artists": null,
+        "artists": "",
         "display_date": "Mar 26, 2014",
         "from": "Brian Molnar",
         "id": "rtR63-ecUNo",
@@ -1989,9 +1716,7 @@
         "url": "https://www.youtube.com/watch?v=rtR63-ecUNo"
     },
     {
-        "artists": [
-            "The Books"
-        ],
+        "artists": "The Books",
         "display_date": "2013",
         "from": "Kip Landergren",
         "id": "66Kr9Edr1C4hWR14MGIQoW",
@@ -2003,9 +1728,7 @@
         "url": "https://open.spotify.com/album/66Kr9Edr1C4hWR14MGIQoW"
     },
     {
-        "artists": [
-            "Willie Watson"
-        ],
+        "artists": "Willie Watson",
         "display_date": null,
         "from": "Kip Landergren",
         "id": "1m40egpVSckTffR0Bo3d4U",
@@ -2017,7 +1740,7 @@
         "url": "https://open.spotify.com/track/1m40egpVSckTffR0Bo3d4U"
     },
     {
-        "artists": null,
+        "artists": "",
         "display_date": "Sep 23, 2007",
         "from": "Brian Molnar",
         "id": "jJewbFZHI34",
@@ -2029,7 +1752,7 @@
         "url": "https://www.youtube.com/watch?v=jJewbFZHI34"
     },
     {
-        "artists": null,
+        "artists": "",
         "display_date": "Jul 03, 2014",
         "from": "Brian Molnar",
         "id": "_UtxvkD3Krg",
@@ -2041,9 +1764,7 @@
         "url": "https://www.youtube.com/watch?v=_UtxvkD3Krg"
     },
     {
-        "artists": [
-            "Company - Into the Woods (Motion Picture Cast)"
-        ],
+        "artists": "Company - Into the Woods (Motion Picture Cast)",
         "display_date": null,
         "from": "Ryan Hurley",
         "id": "5woVxs0CnNwnMb6FvARlCV",
@@ -2055,9 +1776,7 @@
         "url": "https://open.spotify.com/track/5woVxs0CnNwnMb6FvARlCV"
     },
     {
-        "artists": [
-            "Igor Stravinsky"
-        ],
+        "artists": "Igor Stravinsky",
         "display_date": "2013",
         "from": "Ryan Hurley",
         "id": "3Bcd6GfSzFhmc64Bly6X1i",
@@ -2069,9 +1788,7 @@
         "url": "https://open.spotify.com/album/3Bcd6GfSzFhmc64Bly6X1i"
     },
     {
-        "artists": [
-            "Bahamas"
-        ],
+        "artists": "Bahamas",
         "display_date": null,
         "from": "Kip Landergren",
         "id": "25J4d78ESH2MgAJoIakB8O",
@@ -2083,9 +1800,7 @@
         "url": "https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O"
     },
     {
-        "artists": [
-            "The Chemical Brothers"
-        ],
+        "artists": "The Chemical Brothers",
         "display_date": null,
         "from": "Kip Landergren",
         "id": "6sQEHHIxPTRQCzTtzSQasr",
@@ -2097,9 +1812,7 @@
         "url": "https://open.spotify.com/track/6sQEHHIxPTRQCzTtzSQasr"
     },
     {
-        "artists": [
-            "Guster"
-        ],
+        "artists": "Guster",
         "display_date": null,
         "from": "Kip Landergren",
         "id": "2sNYQbwXDzYYOi35QYnLb3",
@@ -2111,9 +1824,7 @@
         "url": "https://open.spotify.com/track/2sNYQbwXDzYYOi35QYnLb3"
     },
     {
-        "artists": [
-            "Talking Heads"
-        ],
+        "artists": "Talking Heads",
         "display_date": null,
         "from": "Kip Landergren",
         "id": "7dSCxR4LqkmxoBrq9MzVSD",
@@ -2125,9 +1836,7 @@
         "url": "https://open.spotify.com/track/7dSCxR4LqkmxoBrq9MzVSD"
     },
     {
-        "artists": [
-            "Yo La Tengo"
-        ],
+        "artists": "Yo La Tengo",
         "display_date": null,
         "from": "Kip Landergren",
         "id": "7njXkVYVKDWV20jRnUy0UQ",
@@ -2139,9 +1848,7 @@
         "url": "https://open.spotify.com/track/7njXkVYVKDWV20jRnUy0UQ"
     },
     {
-        "artists": [
-            "Tycho"
-        ],
+        "artists": "Tycho",
         "display_date": "2006",
         "from": "Kip Landergren",
         "id": "6KdpI73cSghcgMdV04SSBn",
@@ -2153,7 +1860,7 @@
         "url": "https://open.spotify.com/album/6KdpI73cSghcgMdV04SSBn"
     },
     {
-        "artists": null,
+        "artists": "",
         "display_date": "Dec 21, 2012",
         "from": "Brian Molnar",
         "id": "auLBLk4ibAk",
@@ -2165,7 +1872,7 @@
         "url": "https://www.youtube.com/watch?v=auLBLk4ibAk"
     },
     {
-        "artists": null,
+        "artists": "",
         "display_date": "Dec 23, 2013",
         "from": "Brian Molnar",
         "id": "vzxZzIiO84Y",
@@ -2177,9 +1884,7 @@
         "url": "https://www.youtube.com/watch?v=vzxZzIiO84Y"
     },
     {
-        "artists": [
-            "Ben Howard"
-        ],
+        "artists": "Ben Howard",
         "display_date": null,
         "from": "Kip Landergren",
         "id": "4PXb4gyyo85e3IYXa0eWkk",
@@ -2191,7 +1896,7 @@
         "url": "https://open.spotify.com/track/4PXb4gyyo85e3IYXa0eWkk"
     },
     {
-        "artists": null,
+        "artists": "",
         "display_date": "Apr 23, 2013",
         "from": "Brian Molnar",
         "id": "4gPFZlw1dw0",
@@ -2203,7 +1908,7 @@
         "url": "https://www.youtube.com/watch?v=4gPFZlw1dw0"
     },
     {
-        "artists": null,
+        "artists": "",
         "display_date": "Feb 17, 2012",
         "from": "Brian Molnar",
         "id": "R4Pw3wPSF9Q",
@@ -2215,7 +1920,7 @@
         "url": "https://www.youtube.com/watch?v=R4Pw3wPSF9Q"
     },
     {
-        "artists": null,
+        "artists": "",
         "display_date": "Oct 29, 2009",
         "from": "Brian Molnar",
         "id": "IJiHDmyhE1A",
@@ -2227,7 +1932,7 @@
         "url": "https://www.youtube.com/watch?v=IJiHDmyhE1A"
     },
     {
-        "artists": null,
+        "artists": "",
         "display_date": "Jul 24, 2013",
         "from": "Brian Molnar",
         "id": "ezhAnrz1Cs4",
@@ -2239,10 +1944,7 @@
         "url": "https://www.youtube.com/watch?v=ezhAnrz1Cs4"
     },
     {
-        "artists": [
-            "Various Artists",
-            "Johann Sebastian Bach"
-        ],
+        "artists": "Various Artists, Johann Sebastian Bach",
         "display_date": "2015",
         "from": "Ravikiran Janardhana",
         "id": "48aUtVD7m76VPvQKBPfEnc",
@@ -2254,9 +1956,7 @@
         "url": "https://open.spotify.com/album/48aUtVD7m76VPvQKBPfEnc"
     },
     {
-        "artists": [
-            "Banks"
-        ],
+        "artists": "Banks",
         "display_date": "2014",
         "from": "Kip Landergren",
         "id": "1eeYYgK208xvkCEGkYqWah",
@@ -2268,9 +1968,7 @@
         "url": "https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah"
     },
     {
-        "artists": [
-            "Pinback"
-        ],
+        "artists": "Pinback",
         "display_date": "2004",
         "from": "Kip Landergren",
         "id": "3uKQ9B51GFa4fgNly5mDLP",
@@ -2282,9 +1980,7 @@
         "url": "https://open.spotify.com/album/3uKQ9B51GFa4fgNly5mDLP"
     },
     {
-        "artists": [
-            "Electric Light Orchestra"
-        ],
+        "artists": "Electric Light Orchestra",
         "display_date": "1983",
         "from": "Ravikiran Janardhana",
         "id": "2GjPo1eE33ecTQSU4BiiiU",
@@ -2296,7 +1992,7 @@
         "url": "https://open.spotify.com/album/2GjPo1eE33ecTQSU4BiiiU"
     },
     {
-        "artists": null,
+        "artists": "",
         "display_date": "Aug 08, 2010",
         "from": "Brian Molnar",
         "id": "6ZwOq0tTEPE",
@@ -2308,7 +2004,7 @@
         "url": "https://www.youtube.com/watch?v=6ZwOq0tTEPE"
     },
     {
-        "artists": null,
+        "artists": "",
         "display_date": "Dec 23, 2012",
         "from": "Kip Landergren",
         "id": "gF0ZipwKLhg",
@@ -2320,10 +2016,7 @@
         "url": "https://www.youtube.com/watch?v=gF0ZipwKLhg"
     },
     {
-        "artists": [
-            "Disclosure",
-            "Sam Smith"
-        ],
+        "artists": "Disclosure, Sam Smith",
         "display_date": null,
         "from": "Kip Landergren",
         "id": "1BltsyC5W3SAABdxyrDXwi",
@@ -2335,7 +2028,7 @@
         "url": "https://open.spotify.com/track/1BltsyC5W3SAABdxyrDXwi"
     },
     {
-        "artists": null,
+        "artists": "",
         "display_date": "Mar 13, 2009",
         "from": "Kip Landergren",
         "id": "uIbXvaE39wM",
@@ -2347,7 +2040,7 @@
         "url": "https://www.youtube.com/watch?v=uIbXvaE39wM"
     },
     {
-        "artists": null,
+        "artists": "",
         "display_date": "Sep 25, 2009",
         "from": "Kip Landergren",
         "id": "edvw2o9byQ8",
@@ -2359,9 +2052,7 @@
         "url": "https://www.youtube.com/watch?v=edvw2o9byQ8"
     },
     {
-        "artists": [
-            "The Raconteurs"
-        ],
+        "artists": "The Raconteurs",
         "display_date": null,
         "from": "Ravikiran Janardhana",
         "id": "7yynFMNkHtI0EH5UbFPfoZ",
@@ -2373,9 +2064,7 @@
         "url": "https://open.spotify.com/track/7yynFMNkHtI0EH5UbFPfoZ"
     },
     {
-        "artists": [
-            "The Raconteurs"
-        ],
+        "artists": "The Raconteurs",
         "display_date": "2006",
         "from": "Ravikiran Janardhana",
         "id": "54phnRxP2PmwQDuUfiNFPx",
@@ -2387,9 +2076,7 @@
         "url": "https://open.spotify.com/album/54phnRxP2PmwQDuUfiNFPx"
     },
     {
-        "artists": [
-            "Bombino"
-        ],
+        "artists": "Bombino",
         "display_date": "2013",
         "from": "Kip Landergren",
         "id": "6Zv8PkjigCztS7AON6ZuZe",
@@ -2401,9 +2088,7 @@
         "url": "https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe"
     },
     {
-        "artists": [
-            "Panda Bear"
-        ],
+        "artists": "Panda Bear",
         "display_date": "2007",
         "from": "Ravikiran Janardhana",
         "id": "6nSVtOXUvU7boqap93BYXC",
@@ -2415,9 +2100,7 @@
         "url": "https://open.spotify.com/album/6nSVtOXUvU7boqap93BYXC"
     },
     {
-        "artists": [
-            "Kishi Bashi"
-        ],
+        "artists": "Kishi Bashi",
         "display_date": "2012",
         "from": "Kip Landergren",
         "id": "1KqRTsqsAE9DC2M7jqDQec",
