@@ -64,7 +64,7 @@ div.container-fluid .tabpanel-list-item .music-item-info .title-year .music-link
   font-size: 20px;
 }
 /* line 63, ../sass/styles.scss */
-div.container-fluid .tabpanel-list-item .music-item-info .artists, div.container-fluid .tabpanel-list-item .music-item-info .uploaded_date {
+div.container-fluid .tabpanel-list-item .music-item-info .artists, div.container-fluid .tabpanel-list-item .music-item-info .uploaded-date {
   padding: 3px 0;
   font-size: 16px;
   color: #666;
