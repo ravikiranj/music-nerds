@@ -1,22 +1,28 @@
+/* Cmd: [ravikirn@rk-dell-xps static]# compass compile --sass-dir=sass --css-dir=css */
 /* Variables */
-/* line 10, ../sass/styles.scss */
+/* line 12, ../sass/styles.scss */
 body {
   padding: 0px 30px;
 }
 
-/* line 14, ../sass/styles.scss */
+/* line 16, ../sass/styles.scss */
+h1.page-heading {
+  margin: 25px 0;
+}
+
+/* line 20, ../sass/styles.scss */
 div.container-fluid {
   padding-left: 0px;
   padding-right: 0px;
 }
-/* line 18, ../sass/styles.scss */
+/* line 24, ../sass/styles.scss */
 div.container-fluid .tabpanel-list {
   display: -webkit-flex;
   display: flex;
   -webkit-flex-direction: column;
   flex-direction: column;
 }
-/* line 23, ../sass/styles.scss */
+/* line 29, ../sass/styles.scss */
 div.container-fluid .tabpanel-list-item {
   display: -webkit-flex;
   display: flex;
@@ -29,18 +35,18 @@ div.container-fluid .tabpanel-list-item {
   padding: 10px;
   margin: 10px;
 }
-/* line 32, ../sass/styles.scss */
+/* line 38, ../sass/styles.scss */
 div.container-fluid .tabpanel-list-item .item-count {
   margin-right: 15px;
   font-size: 25px;
   color: #666;
 }
-/* line 38, ../sass/styles.scss */
+/* line 44, ../sass/styles.scss */
 div.container-fluid .tabpanel-list-item .music-item-image {
   padding: 10px;
   display: block;
 }
-/* line 43, ../sass/styles.scss */
+/* line 49, ../sass/styles.scss */
 div.container-fluid .tabpanel-list-item .music-item-info {
   display: -webkit-flex;
   display: flex;
@@ -48,22 +54,22 @@ div.container-fluid .tabpanel-list-item .music-item-info {
   flex-direction: column;
   padding-left: 10px;
 }
-/* line 49, ../sass/styles.scss */
+/* line 55, ../sass/styles.scss */
 div.container-fluid .tabpanel-list-item .music-item-info .title-year .music-link, div.container-fluid .tabpanel-list-item .music-item-info .title .music-link {
   font-size: 20px;
 }
-/* line 54, ../sass/styles.scss */
+/* line 60, ../sass/styles.scss */
 div.container-fluid .tabpanel-list-item .music-item-info .artists, div.container-fluid .tabpanel-list-item .music-item-info .uploaded_date {
   padding: 3px 0;
   font-size: 16px;
   color: #666;
 }
-/* line 60, ../sass/styles.scss */
+/* line 66, ../sass/styles.scss */
 div.container-fluid .tabpanel-list-item .music-item-info .recommend {
   font-size: 11px;
   color: #AAA;
 }
-/* line 67, ../sass/styles.scss */
+/* line 73, ../sass/styles.scss */
 div.container-fluid .tab-content {
   padding: 15px;
 }
