@@ -5,6 +5,7 @@ import logging
 import re
 import requests
 import itertools
+import json
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger("get_youtube_videos_data")
@@ -12,10 +13,15 @@ logger = logging.getLogger("get_youtube_videos_data")
 youtube_regex = re.compile(r"https?://(www\.)?youtube\.com/watch\?v=([^&#?]+).*")
 youtube_short_regex = re.compile(r"https?://(www\.)?youtu\.be/([^?#&]+).*")
 
+def get_json_config():
+    with open("config.json") as ip:
+        return json.load(ip)
 
 def get_youtube_data(video_id):
     url = "https://www.googleapis.com/youtube/v3/videos"
-    api_key = "YOUR_YOUTUBE_V3_API_KEY"
+    # Generate API Key at https://console.developers.google.com/apis/api/youtube/overview
+    config = get_json_config()
+    api_key = config["youtube_api_v3_key"]
     params = {"key": api_key, "part": "snippet", "id": video_id, "maxResults": 1}
     r = requests.get(url, params=params)
     if r.status_code != 200:

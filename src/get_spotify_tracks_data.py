@@ -5,6 +5,7 @@ import logging
 import re
 import requests
 import itertools
+import json
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger("get_spotify_albums_data")
@@ -17,12 +18,16 @@ def chunks(l, n):
     for i in xrange(0, len(l), n):
         yield l[i:i + n]
 
+def get_json_config():
+    with open("config.json") as ip:
+        return json.load(ip)
 
 def get_spotify_data(tracks_list):
     url = "https://api.spotify.com/v1/tracks"
     params = {"ids": ','.join(tracks_list), "market": "US"}
     # Generate Access Token via https://developer.spotify.com/web-api/console/get-several-tracks
-    auth_token = "YOUR_SPOTIFY_AUTH_TOKEN"
+    config = get_json_config()
+    auth_token = config["spotify_auth_token"]
     headers = {"Authorization": "Bearer " + auth_token}
     r = requests.get(url, params=params, headers=headers)
     if r.status_code != 200:

@@ -1,0 +1,7 @@
+{
+  "hipchat_server": "",
+  "hipchat_auth_token": "",
+  "music_room_api_id": 0,
+  "spotify_auth_token": "",
+  "youtube_api_v3_key": ""
+}

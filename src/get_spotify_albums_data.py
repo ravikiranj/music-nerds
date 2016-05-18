@@ -5,24 +5,28 @@ import logging
 import re
 import requests
 import itertools
+import json
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger("get_spotify_albums_data")
 
 album_regex = re.compile(r"^https?://open.spotify.com/album/(.*)$")
 
+def get_json_config():
+    with open("config.json") as ip:
+        return json.load(ip)
 
 def chunks(l, n):
     """Yield successive n-sized chunks from l."""
     for i in xrange(0, len(l), n):
         yield l[i:i + n]
 
-
 def get_spotify_data(albums_list):
     url = "https://api.spotify.com/v1/albums"
     params = {"ids": ','.join(albums_list), "market": "US"}
     # Generate Access Token via https://developer.spotify.com/web-api/console/get-several-albums
-    auth_token = "YOUR_SPOTIFY_AUTH_TOKEN"
+    config = get_json_config()
+    auth_token = config["spotify_auth_token"]
     headers = {"Authorization": "Bearer " + auth_token}
     r = requests.get(url, params=params, headers=headers)
     if r.status_code != 200:

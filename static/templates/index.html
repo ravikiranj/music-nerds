@@ -26,26 +26,29 @@
         <div class="container-fluid">
             <ul class="nav nav-tabs" role="tablist">
                 <li role="presentation" class="active">
-                    <a href="#spotify-albums" aria-controls="spotify-albums" role="tab" data-toggle="tab">Spotify Albums</a>
+                    <a href="#youtube-videos" aria-controls="youtube-videos" role="tab" data-toggle="tab">YouTube</a>
                 </li>
                 <li role="presentation">
                     <a href="#spotify-tracks" aria-controls="spotify-tracks" role="tab" data-toggle="tab">Spotify Tracks</a>
                 </li>
                 <li role="presentation">
-                    <a href="#youtube-videos" aria-controls="youtube-videos" role="tab" data-toggle="tab">YouTube</a>
+                    <a href="#spotify-albums" aria-controls="spotify-albums" role="tab" data-toggle="tab">Spotify Albums</a>
                 </li>
             </ul>
             <!-- Tab panes -->
             <div class="tab-content">
-                <div role="tabpanel" class="tab-pane fade in active" id="spotify-albums">
+                <!-- Youtube Videos -->
+                <div role="tabpanel" class="tab-pane fade in active" id="youtube-videos">
                     <div class="tabpanel-list">
-                        {% for album in spotify_albums %}
+                        {% for youtube_video in youtube_videos %}
                             <div class="tabpanel-list-item">
-                                {{ macros.render_spotify_album(album, loop.index) }}
+                                {{ macros.render_youtube_video(youtube_video, loop.index) }}
                             </div>
                         {% endfor %}
                     </div>
                 </div>
+
+                <!-- Spotify Tracks -->
                 <div role="tabpanel" class="tab-pane fade" id="spotify-tracks">
                     <div class="tabpanel-list">
                         {% for track in spotify_tracks %}
@@ -55,11 +58,13 @@
                         {% endfor %}
                     </div>
                 </div>
-                <div role="tabpanel" class="tab-pane fade" id="youtube-videos">
+
+                <!-- Spotify Albums -->
+                <div role="tabpanel" class="tab-pane fade" id="spotify-albums">
                     <div class="tabpanel-list">
-                        {% for youtube_video in youtube_videos %}
+                        {% for album in spotify_albums %}
                             <div class="tabpanel-list-item">
-                                {{ macros.render_youtube_video(youtube_video, loop.index) }}
+                                {{ macros.render_spotify_album(album, loop.index) }}
                             </div>
                         {% endfor %}
                     </div>

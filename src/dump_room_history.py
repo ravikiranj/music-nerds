@@ -3,6 +3,7 @@ import requests
 import simplejson
 import datetime
 import logging
+import json
 
 from dateutil.parser import parse
 
@@ -44,11 +45,15 @@ def get_fixed_next_date(date_str):
         d = None
     return d
 
+def get_json_config():
+    with open("config.json") as ip:
+        return json.load(ip)
 
-AUTH_TOKEN = "PASTE_YOUR_AUTH_TOKEN"
+config = get_json_config()
+AUTH_TOKEN = config["hipchat_auth_token"]
 # Music Nerds API Id
-room_id = 35
-base_url = "https://hipchat.tripadvisorhipchat.com/v2/room/%d/history" % (room_id)
+room_id = config["music_room_api_id"]
+base_url = "https://" + config["hipchat_server"] + "/v2/room/%d/history" % (room_id)
 today = datetime.datetime.utcnow().isoformat()
 max_res = 1000
 

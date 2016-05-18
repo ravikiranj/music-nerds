@@ -1,5 +1,215 @@
 [
     {
+        "date": "2014-12-16T19:37:00.643838+00:00",
+        "from": "Brian Molnar",
+        "link": "https://www.youtube.com/watch?v=rptV6K7nqu0"
+    },
+    {
+        "date": "2014-12-29T17:16:15.976730+00:00",
+        "from": "Ravikiran Janardhana",
+        "link": "http://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa"
+    },
+    {
+        "date": "2014-12-29T19:46:30.649515+00:00",
+        "from": "Brian Molnar",
+        "link": "https://www.youtube.com/watch?v=rtR63-ecUNo"
+    },
+    {
+        "date": "2014-12-30T21:36:25.762104+00:00",
+        "from": "Kip Landergren",
+        "link": "http://open.spotify.com/album/66Kr9Edr1C4hWR14MGIQoW"
+    },
+    {
+        "date": "2014-12-30T22:48:51.872992+00:00",
+        "from": "Kip Landergren",
+        "link": "http://open.spotify.com/track/1m40egpVSckTffR0Bo3d4U"
+    },
+    {
+        "date": "2014-12-30T23:42:46.563031+00:00",
+        "from": "Brian Molnar",
+        "link": "https://www.youtube.com/watch?v=jJewbFZHI34"
+    },
+    {
+        "date": "2014-12-31T17:55:00.066500+00:00",
+        "from": "Brian Molnar",
+        "link": "https://www.youtube.com/watch?v=_UtxvkD3Krg"
+    },
+    {
+        "date": "2015-01-03T00:23:41.423047+00:00",
+        "from": "Ryan Hurley",
+        "link": "http://open.spotify.com/track/5woVxs0CnNwnMb6FvARlCV"
+    },
+    {
+        "date": "2015-01-03T00:31:47.874370+00:00",
+        "from": "Ryan Hurley",
+        "link": "http://open.spotify.com/album/3Bcd6GfSzFhmc64Bly6X1i"
+    },
+    {
+        "date": "2015-01-05T19:00:17.288741+00:00",
+        "from": "Kip Landergren",
+        "link": "http://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O"
+    },
+    {
+        "date": "2015-01-05T21:06:05.224049+00:00",
+        "from": "Kip Landergren",
+        "link": "http://open.spotify.com/track/679sVn8IvjSfGJuKTIK6hP"
+    },
+    {
+        "date": "2015-01-05T21:21:41.952519+00:00",
+        "from": "Kip Landergren",
+        "link": "http://open.spotify.com/track/6sQEHHIxPTRQCzTtzSQasr"
+    },
+    {
+        "date": "2015-01-05T21:26:24.500720+00:00",
+        "from": "Kip Landergren",
+        "link": "http://open.spotify.com/track/2sNYQbwXDzYYOi35QYnLb3"
+    },
+    {
+        "date": "2015-01-05T21:26:56.168536+00:00",
+        "from": "Kip Landergren",
+        "link": "http://open.spotify.com/track/7dSCxR4LqkmxoBrq9MzVSD"
+    },
+    {
+        "date": "2015-01-06T16:58:42.313276+00:00",
+        "from": "Kip Landergren",
+        "link": "http://open.spotify.com/track/7njXkVYVKDWV20jRnUy0UQ"
+    },
+    {
+        "date": "2015-01-06T17:42:26.432973+00:00",
+        "from": "Ravikiran Janardhana",
+        "link": "http://open.spotify.com/user/eskehl/playlist/0X1koctlD6GMkD5w0Ot2X0"
+    },
+    {
+        "date": "2015-01-06T18:35:12.450593+00:00",
+        "from": "Kip Landergren",
+        "link": "http://open.spotify.com/album/6KdpI73cSghcgMdV04SSBn"
+    },
+    {
+        "date": "2015-01-08T15:59:20.204228+00:00",
+        "from": "Brian Molnar",
+        "link": "https://www.youtube.com/watch?v=auLBLk4ibAk"
+    },
+    {
+        "date": "2015-01-08T16:05:40.838314+00:00",
+        "from": "Brian Molnar",
+        "link": "https://www.youtube.com/watch?v=vzxZzIiO84Y"
+    },
+    {
+        "date": "2015-01-08T21:50:40.804551+00:00",
+        "from": "Kip Landergren",
+        "link": "http://open.spotify.com/track/1qHeVLeFeMrpbkR9yaNsd5"
+    },
+    {
+        "date": "2015-01-12T19:27:04.808820+00:00",
+        "from": "Kip Landergren",
+        "link": "http://open.spotify.com/track/4PXb4gyyo85e3IYXa0eWkk"
+    },
+    {
+        "date": "2015-01-12T20:41:42.455941+00:00",
+        "from": "Brian Molnar",
+        "link": "https://www.youtube.com/watch?v=4gPFZlw1dw0"
+    },
+    {
+        "date": "2015-01-12T23:09:04.695733+00:00",
+        "from": "Brian Molnar",
+        "link": "https://www.youtube.com/watch?v=R4Pw3wPSF9Q"
+    },
+    {
+        "date": "2015-01-12T23:12:09.872600+00:00",
+        "from": "Brian Molnar",
+        "link": "https://www.youtube.com/watch?v=IJiHDmyhE1A"
+    },
+    {
+        "date": "2015-01-13T18:31:34.707953+00:00",
+        "from": "Brian Molnar",
+        "link": "https://www.youtube.com/watch?v=ezhAnrz1Cs4"
+    },
+    {
+        "date": "2015-01-13T18:34:33.377502+00:00",
+        "from": "Ravikiran Janardhana",
+        "link": "http://open.spotify.com/album/48aUtVD7m76VPvQKBPfEnc"
+    },
+    {
+        "date": "2015-01-13T18:39:02.375654+00:00",
+        "from": "Kip Landergren",
+        "link": "http://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah"
+    },
+    {
+        "date": "2015-01-13T22:33:37.266780+00:00",
+        "from": "Kip Landergren",
+        "link": "http://open.spotify.com/album/3uKQ9B51GFa4fgNly5mDLP"
+    },
+    {
+        "date": "2015-01-14T18:07:44.663691+00:00",
+        "from": "Ravikiran Janardhana",
+        "link": "http://open.spotify.com/album/2GjPo1eE33ecTQSU4BiiiU"
+    },
+    {
+        "date": "2015-01-14T18:31:38.250068+00:00",
+        "from": "Brian Molnar",
+        "link": "https://www.youtube.com/watch?v=6ZwOq0tTEPE"
+    },
+    {
+        "date": "2015-01-14T19:15:24.793903+00:00",
+        "from": "Kip Landergren",
+        "link": "https://www.youtube.com/watch?v=gF0ZipwKLhg#t=69"
+    },
+    {
+        "date": "2015-01-14T20:56:05.829017+00:00",
+        "from": "Kip Landergren",
+        "link": "http://open.spotify.com/track/1BltsyC5W3SAABdxyrDXwi"
+    },
+    {
+        "date": "2015-01-14T22:53:30.781857+00:00",
+        "from": "Kip Landergren",
+        "link": "https://www.youtube.com/watch?v=uIbXvaE39wM"
+    },
+    {
+        "date": "2015-01-16T16:47:01.293324+00:00",
+        "from": "Kip Landergren",
+        "link": "https://www.youtube.com/watch?v=edvw2o9byQ8"
+    },
+    {
+        "date": "2015-01-16T17:59:02.658687+00:00",
+        "from": "Kip Landergren",
+        "link": "https://www.youtube.com/watch?v=Zy5Uyo-gaEo"
+    },
+    {
+        "date": "2015-01-16T18:03:24.204246+00:00",
+        "from": "Ravikiran Janardhana",
+        "link": "http://open.spotify.com/track/7yynFMNkHtI0EH5UbFPfoZ"
+    },
+    {
+        "date": "2015-01-16T18:04:16.052788+00:00",
+        "from": "Ravikiran Janardhana",
+        "link": "http://open.spotify.com/album/54phnRxP2PmwQDuUfiNFPx"
+    },
+    {
+        "date": "2015-01-16T22:53:29.481945+00:00",
+        "from": "Kip Landergren",
+        "link": "http://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe"
+    },
+    {
+        "date": "2015-01-19T18:11:01.203572+00:00",
+        "from": "Ravikiran Janardhana",
+        "link": "http://open.spotify.com/album/6nSVtOXUvU7boqap93BYXC"
+    },
+    {
+        "date": "2015-01-20T17:24:44.802308+00:00",
+        "from": "Kip Landergren",
+        "link": "http://open.spotify.com/album/1KqRTsqsAE9DC2M7jqDQec"
+    },
+    {
+        "date": "2015-01-21T21:01:12.264528+00:00",
+        "from": "Kip Landergren",
+        "link": "http://open.spotify.com/album/6nSVtOXUvU7boqap93BYXC"
+    },
+    {
+        "date": "2015-01-22T18:12:33.769437+00:00",
+        "from": "Ravikiran Janardhana",
+        "link": "https://www.youtube.com/watch?v=Zd_oIFy1mxM"
+    },
+    {
         "date": "2015-01-22T18:15:38.403181+00:00",
         "from": "Ravikiran Janardhana",
         "link": "http://open.spotify.com/album/2PwxN5HtdQw652hvSWg80P"
@@ -470,9 +680,9 @@
         "link": "http://open.spotify.com/track/26Xh08frF1NVKay6w7jXix"
     },
     {
-        "date": "2015-04-27T20:38:06.376907+00:00",
-        "from": "Kip Landergren",
-        "link": "http://open.spotify.com/album/3DsmdqubpBNPJvCf2mc0XP"
+        "date": "2014-12-05T17:05:43.057177+00:00",
+        "from": "Ravikiran Janardhana",
+        "link": "http://open.spotify.com/user/rkjanardhana/playlist/0jdbTYireYgCj4zAboKoZL"
     },
     {
         "date": "2015-04-28T17:52:22.269815+00:00",
@@ -820,208 +1030,303 @@
         "link": "http://open.spotify.com/track/4f4y5UoDc6n0nwvhQYDyTE"
     },
     {
-        "date": "2014-12-05T17:05:43.057177+00:00",
+        "date": "2015-08-31T19:24:08.952547+00:00",
+        "from": "Vladimir Parfenov",
+        "link": "https://www.youtube.com/watch?v=3mbiG5E09b0"
+    },
+    {
+        "date": "2015-08-31T20:20:12.950296+00:00",
         "from": "Ravikiran Janardhana",
-        "link": "http://open.spotify.com/user/rkjanardhana/playlist/0jdbTYireYgCj4zAboKoZL"
+        "link": "https://www.youtube.com/watch?v=m1RSdbC-XlA"
     },
     {
-        "date": "2014-12-16T19:37:00.643838+00:00",
-        "from": "Brian Molnar",
-        "link": "https://www.youtube.com/watch?v=rptV6K7nqu0"
-    },
-    {
-        "date": "2014-12-29T17:16:15.976730+00:00",
+        "date": "2015-08-31T20:21:21.227523+00:00",
         "from": "Ravikiran Janardhana",
-        "link": "http://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa"
+        "link": "https://www.youtube.com/watch?v=m1RSdbC-XlA"
     },
     {
-        "date": "2014-12-29T19:46:30.649515+00:00",
-        "from": "Brian Molnar",
-        "link": "https://www.youtube.com/watch?v=rtR63-ecUNo"
-    },
-    {
-        "date": "2014-12-30T21:36:25.762104+00:00",
-        "from": "Kip Landergren",
-        "link": "http://open.spotify.com/album/66Kr9Edr1C4hWR14MGIQoW"
-    },
-    {
-        "date": "2014-12-30T22:48:51.872992+00:00",
-        "from": "Kip Landergren",
-        "link": "http://open.spotify.com/track/1m40egpVSckTffR0Bo3d4U"
-    },
-    {
-        "date": "2014-12-30T23:42:46.563031+00:00",
-        "from": "Brian Molnar",
-        "link": "https://www.youtube.com/watch?v=jJewbFZHI34"
-    },
-    {
-        "date": "2014-12-31T17:55:00.066500+00:00",
-        "from": "Brian Molnar",
-        "link": "https://www.youtube.com/watch?v=_UtxvkD3Krg"
-    },
-    {
-        "date": "2015-01-03T00:23:41.423047+00:00",
-        "from": "Ryan Hurley",
-        "link": "http://open.spotify.com/track/5woVxs0CnNwnMb6FvARlCV"
-    },
-    {
-        "date": "2015-01-03T00:31:47.874370+00:00",
-        "from": "Ryan Hurley",
-        "link": "http://open.spotify.com/album/3Bcd6GfSzFhmc64Bly6X1i"
-    },
-    {
-        "date": "2015-01-05T19:00:17.288741+00:00",
-        "from": "Kip Landergren",
-        "link": "http://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O"
-    },
-    {
-        "date": "2015-01-05T21:06:05.224049+00:00",
-        "from": "Kip Landergren",
-        "link": "http://open.spotify.com/track/679sVn8IvjSfGJuKTIK6hP"
-    },
-    {
-        "date": "2015-01-05T21:21:41.952519+00:00",
-        "from": "Kip Landergren",
-        "link": "http://open.spotify.com/track/6sQEHHIxPTRQCzTtzSQasr"
-    },
-    {
-        "date": "2015-01-05T21:26:24.500720+00:00",
-        "from": "Kip Landergren",
-        "link": "http://open.spotify.com/track/2sNYQbwXDzYYOi35QYnLb3"
-    },
-    {
-        "date": "2015-01-05T21:26:56.168536+00:00",
-        "from": "Kip Landergren",
-        "link": "http://open.spotify.com/track/7dSCxR4LqkmxoBrq9MzVSD"
-    },
-    {
-        "date": "2015-01-06T16:58:42.313276+00:00",
-        "from": "Kip Landergren",
-        "link": "http://open.spotify.com/track/7njXkVYVKDWV20jRnUy0UQ"
-    },
-    {
-        "date": "2015-01-06T17:42:26.432973+00:00",
+        "date": "2015-08-31T20:21:36.342382+00:00",
         "from": "Ravikiran Janardhana",
-        "link": "http://open.spotify.com/user/eskehl/playlist/0X1koctlD6GMkD5w0Ot2X0"
+        "link": "https://www.youtube.com/watch?v=M-2lMstw6qs&list=PLVyehhUaGFdWCf_kxdaIH1_aVlrO0e_0m"
     },
     {
-        "date": "2015-01-06T18:35:12.450593+00:00",
-        "from": "Kip Landergren",
-        "link": "http://open.spotify.com/album/6KdpI73cSghcgMdV04SSBn"
+        "date": "2015-08-31T21:06:31.335181+00:00",
+        "from": "Jonathan Silverman",
+        "link": "https://www.youtube.com/watch?v=81m8_5mccgA"
     },
     {
-        "date": "2015-01-08T15:59:20.204228+00:00",
-        "from": "Brian Molnar",
-        "link": "https://www.youtube.com/watch?v=auLBLk4ibAk"
-    },
-    {
-        "date": "2015-01-08T16:05:40.838314+00:00",
-        "from": "Brian Molnar",
-        "link": "https://www.youtube.com/watch?v=vzxZzIiO84Y"
-    },
-    {
-        "date": "2015-01-08T21:50:40.804551+00:00",
-        "from": "Kip Landergren",
-        "link": "http://open.spotify.com/track/1qHeVLeFeMrpbkR9yaNsd5"
-    },
-    {
-        "date": "2015-01-12T19:27:04.808820+00:00",
-        "from": "Kip Landergren",
-        "link": "http://open.spotify.com/track/4PXb4gyyo85e3IYXa0eWkk"
-    },
-    {
-        "date": "2015-01-12T20:41:42.455941+00:00",
-        "from": "Brian Molnar",
-        "link": "https://www.youtube.com/watch?v=4gPFZlw1dw0"
-    },
-    {
-        "date": "2015-01-12T23:09:04.695733+00:00",
-        "from": "Brian Molnar",
-        "link": "https://www.youtube.com/watch?v=R4Pw3wPSF9Q"
-    },
-    {
-        "date": "2015-01-12T23:12:09.872600+00:00",
-        "from": "Brian Molnar",
-        "link": "https://www.youtube.com/watch?v=IJiHDmyhE1A"
-    },
-    {
-        "date": "2015-01-13T18:31:34.707953+00:00",
-        "from": "Brian Molnar",
-        "link": "https://www.youtube.com/watch?v=ezhAnrz1Cs4"
-    },
-    {
-        "date": "2015-01-13T18:34:33.377502+00:00",
+        "date": "2015-09-04T15:54:47.781058+00:00",
         "from": "Ravikiran Janardhana",
-        "link": "http://open.spotify.com/album/48aUtVD7m76VPvQKBPfEnc"
+        "link": "https://www.youtube.com/watch?v=vXFhqG8G5uI"
     },
     {
-        "date": "2015-01-13T18:39:02.375654+00:00",
-        "from": "Kip Landergren",
-        "link": "http://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah"
-    },
-    {
-        "date": "2015-01-13T22:33:37.266780+00:00",
-        "from": "Kip Landergren",
-        "link": "http://open.spotify.com/album/3uKQ9B51GFa4fgNly5mDLP"
-    },
-    {
-        "date": "2015-01-14T18:07:44.663691+00:00",
+        "date": "2015-09-04T15:56:40.578020+00:00",
         "from": "Ravikiran Janardhana",
-        "link": "http://open.spotify.com/album/2GjPo1eE33ecTQSU4BiiiU"
+        "link": "https://www.youtube.com/watch?v=HVXrBXGCYk8"
     },
     {
-        "date": "2015-01-14T18:31:38.250068+00:00",
-        "from": "Brian Molnar",
-        "link": "https://www.youtube.com/watch?v=6ZwOq0tTEPE"
+        "date": "2015-09-04T16:10:40.331724+00:00",
+        "from": "Aidan O'Loan",
+        "link": "https://www.youtube.com/watch?v=lT2OWigvQjY"
     },
     {
-        "date": "2015-01-14T19:15:24.793903+00:00",
-        "from": "Kip Landergren",
-        "link": "https://www.youtube.com/watch?v=gF0ZipwKLhg#t=69"
-    },
-    {
-        "date": "2015-01-14T20:56:05.829017+00:00",
-        "from": "Kip Landergren",
-        "link": "http://open.spotify.com/track/1BltsyC5W3SAABdxyrDXwi"
-    },
-    {
-        "date": "2015-01-14T22:53:30.781857+00:00",
-        "from": "Kip Landergren",
-        "link": "https://www.youtube.com/watch?v=uIbXvaE39wM"
-    },
-    {
-        "date": "2015-01-16T16:47:01.293324+00:00",
-        "from": "Kip Landergren",
-        "link": "https://www.youtube.com/watch?v=edvw2o9byQ8"
-    },
-    {
-        "date": "2015-01-16T17:59:02.658687+00:00",
-        "from": "Kip Landergren",
-        "link": "https://www.youtube.com/watch?v=Zy5Uyo-gaEo"
-    },
-    {
-        "date": "2015-01-16T18:03:24.204246+00:00",
+        "date": "2015-09-16T16:03:42.054665+00:00",
         "from": "Ravikiran Janardhana",
-        "link": "http://open.spotify.com/track/7yynFMNkHtI0EH5UbFPfoZ"
+        "link": "https://www.youtube.com/watch?v=SO-Mk-Ysqbs&list=PL7EPL45HahHYQNol4mzpvFL2jj4A02tQz"
     },
     {
-        "date": "2015-01-16T18:04:16.052788+00:00",
+        "date": "2015-09-28T15:49:04.884179+00:00",
         "from": "Ravikiran Janardhana",
-        "link": "http://open.spotify.com/album/54phnRxP2PmwQDuUfiNFPx"
+        "link": "https://www.youtube.com/watch?v=PSZxmZmBfnU"
     },
     {
-        "date": "2015-01-16T22:53:29.481945+00:00",
-        "from": "Kip Landergren",
-        "link": "http://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe"
-    },
-    {
-        "date": "2015-01-19T18:11:01.203572+00:00",
+        "date": "2015-10-22T00:09:33.480042+00:00",
         "from": "Ravikiran Janardhana",
-        "link": "http://open.spotify.com/album/6nSVtOXUvU7boqap93BYXC"
+        "link": "https://www.youtube.com/watch?v=tRcPA7Fzebw"
     },
     {
-        "date": "2015-01-20T17:24:44.802308+00:00",
+        "date": "2015-10-22T00:10:02.955393+00:00",
+        "from": "Ravikiran Janardhana",
+        "link": "https://www.youtube.com/watch?v=KaOC9danxNo"
+    },
+    {
+        "date": "2015-11-06T14:50:01.249867+00:00",
+        "from": "Ravikiran Janardhana",
+        "link": "https://www.youtube.com/watch?v=keke7BGzJPI&index=2&list=PLpMUJrYyZ561Cdl0nLO8F1I0Ko2cOMU1J"
+    },
+    {
+        "date": "2015-11-09T14:33:41.129399+00:00",
+        "from": "Jacob Katz",
+        "link": "https://www.youtube.com/watch?v=mVg0lBtzgQQ"
+    },
+    {
+        "date": "2015-11-09T16:13:30.576351+00:00",
+        "from": "Ravikiran Janardhana",
+        "link": "https://www.youtube.com/watch?v=kYwYb3Pa9p4"
+    },
+    {
+        "date": "2015-11-30T17:57:13.236910+00:00",
+        "from": "Ravikiran Janardhana",
+        "link": "https://www.youtube.com/watch?v=Pn4pEVBEZxw"
+    },
+    {
+        "date": "2015-12-07T19:02:20.635953+00:00",
         "from": "Kip Landergren",
-        "link": "http://open.spotify.com/album/1KqRTsqsAE9DC2M7jqDQec"
+        "link": "https://www.youtube.com/watch?v=nWlKxmDjCM0"
+    },
+    {
+        "date": "2015-12-07T19:17:58.464542+00:00",
+        "from": "Kip Landergren",
+        "link": "https://www.youtube.com/watch?v=HSRTJVLBSJk"
+    },
+    {
+        "date": "2015-12-22T19:31:28.609930+00:00",
+        "from": "Ravikiran Janardhana",
+        "link": "https://www.youtube.com/watch?v=xiEZPRg3p_g"
+    },
+    {
+        "date": "2015-12-22T19:59:45.458676+00:00",
+        "from": "Jason Brancazio",
+        "link": "https://www.youtube.com/watch?v=fsvy5BV4AzM"
+    },
+    {
+        "date": "2015-12-22T22:34:09.475381+00:00",
+        "from": "Ravikiran Janardhana",
+        "link": "https://www.youtube.com/watch?v=rW5YKFsiWM8"
+    },
+    {
+        "date": "2016-01-11T17:22:49.059850+00:00",
+        "from": "Ravikiran Janardhana",
+        "link": "http://open.spotify.com/album/7Ce9NBNo6wHUKbvZS41NOH"
+    },
+    {
+        "date": "2016-01-14T20:02:25.334451+00:00",
+        "from": "Parul Shukla",
+        "link": "https://www.youtube.com/watch?v=Lr8G7UNgy24"
+    },
+    {
+        "date": "2016-01-26T18:24:39.345198+00:00",
+        "from": "Ravikiran Janardhana",
+        "link": "https://www.youtube.com/watch?v=J2ITfu6pWKI"
+    },
+    {
+        "date": "2016-03-09T01:20:59.430641+00:00",
+        "from": "Jason Brancazio",
+        "link": "https://www.youtube.com/watch?v=N-pgMdimVIY"
+    },
+    {
+        "date": "2016-03-24T20:44:43.400595+00:00",
+        "from": "Kip Landergren",
+        "link": "http://youtu.be/95pNuRIjUNE"
+    },
+    {
+        "date": "2016-04-14T17:44:06.203055+00:00",
+        "from": "Ravikiran Janardhana",
+        "link": "https://www.youtube.com/watch?v=iiChxN0T2kA"
+    },
+    {
+        "date": "2016-04-15T15:41:45.687656+00:00",
+        "from": "Meff Leonard",
+        "link": "https://www.youtube.com/watch?v=XpR90i4seRU&index=4&list=PLAC1741087BB685AE"
+    },
+    {
+        "date": "2016-04-15T15:43:36.588642+00:00",
+        "from": "Meff Leonard",
+        "link": "https://www.youtube.com/watch?v=uw6dp54Qseg"
+    },
+    {
+        "date": "2016-04-15T15:44:29.123166+00:00",
+        "from": "Meff Leonard",
+        "link": "https://www.youtube.com/watch?v=SV2G9Cvm4a4"
+    },
+    {
+        "date": "2016-04-15T15:46:20.767149+00:00",
+        "from": "Meff Leonard",
+        "link": "https://www.youtube.com/watch?v=gL6_pMdMhlQ"
+    },
+    {
+        "date": "2016-04-15T17:12:15.537694+00:00",
+        "from": "Jacob Katz",
+        "link": "https://www.youtube.com/watch?v=RllvZF-qlBI"
+    },
+    {
+        "date": "2016-04-15T17:25:07.831949+00:00",
+        "from": "Pedro Sempertegui",
+        "link": "https://www.youtube.com/watch?v=98AJUj-qxHI"
+    },
+    {
+        "date": "2016-04-20T17:39:15.665354+00:00",
+        "from": "Meff Leonard",
+        "link": "https://www.youtube.com/watch?v=GKY--qaHWSw"
+    },
+    {
+        "date": "2016-04-20T17:56:33.970195+00:00",
+        "from": "Meff Leonard",
+        "link": "https://www.youtube.com/watch?v=0eCkrEBW1KM"
+    },
+    {
+        "date": "2016-04-20T18:31:39.852051+00:00",
+        "from": "Pedro Sempertegui",
+        "link": "https://www.youtube.com/watch?v=JTa9hxMxn68"
+    },
+    {
+        "date": "2016-04-21T15:06:59.573302+00:00",
+        "from": "Pedro Sempertegui",
+        "link": "https://www.youtube.com/watch?v=onoU65q3luo"
+    },
+    {
+        "date": "2016-04-21T16:59:54.049508+00:00",
+        "from": "Pedro Sempertegui",
+        "link": "https://www.youtube.com/watch?v=4FhEcIv29ps"
+    },
+    {
+        "date": "2016-04-21T17:14:00.689099+00:00",
+        "from": "Kevin Cullinane",
+        "link": "https://www.youtube.com/watch?v=NFXZNt4oLkE"
+    },
+    {
+        "date": "2016-04-26T18:36:17.563394+00:00",
+        "from": "Pedro Sempertegui",
+        "link": "https://www.youtube.com/watch?v=uOQmc9A4kcA"
+    },
+    {
+        "date": "2016-04-28T17:48:30.220967+00:00",
+        "from": "Jacob Katz",
+        "link": "https://www.youtube.com/watch?v=EJlyWUQG4_8"
+    },
+    {
+        "date": "2016-05-02T12:35:24.776284+00:00",
+        "from": "Pedro Sempertegui",
+        "link": "https://www.youtube.com/watch?v=dVVvgFWn14c"
+    },
+    {
+        "date": "2016-05-03T16:34:00.558100+00:00",
+        "from": "Pedro Sempertegui",
+        "link": "https://www.youtube.com/watch?v=yI2oS2hoL0k"
+    },
+    {
+        "date": "2016-05-03T20:12:19.840031+00:00",
+        "from": "Pedro Sempertegui",
+        "link": "https://www.youtube.com/watch?v=daWU146GKFA"
+    },
+    {
+        "date": "2016-05-05T11:58:20.062574+00:00",
+        "from": "Pedro Sempertegui",
+        "link": "https://www.youtube.com/watch?v=oKD-MVfC9Ag"
+    },
+    {
+        "date": "2016-05-06T12:23:27.944855+00:00",
+        "from": "Pedro Sempertegui",
+        "link": "https://www.youtube.com/watch?v=F63Fxcm9DGM"
+    },
+    {
+        "date": "2016-05-06T16:12:51.576482+00:00",
+        "from": "Jacob Katz",
+        "link": "https://www.youtube.com/watch?v=9xBEnbOcKjQ"
+    },
+    {
+        "date": "2016-05-06T16:36:55.580258+00:00",
+        "from": "Ravikiran Janardhana",
+        "link": "https://www.youtube.com/watch?v=TTAU7lLDZYU"
+    },
+    {
+        "date": "2016-05-06T18:08:30.762375+00:00",
+        "from": "Meff Leonard",
+        "link": "https://www.youtube.com/watch?v=ZQAoOl8hk0Q&list=PLq86wMLAo8y6PAHIDPowncQOUmC8AUaoa"
+    },
+    {
+        "date": "2016-05-10T20:42:38.590092+00:00",
+        "from": "Meff Leonard",
+        "link": "https://www.youtube.com/watch?v=ffCibxUg2JM"
+    },
+    {
+        "date": "2016-05-10T20:44:38.359866+00:00",
+        "from": "Meff Leonard",
+        "link": "https://youtu.be/ffCibxUg2JM?t=6m23s"
+    },
+    {
+        "date": "2016-05-12T18:03:05.236213+00:00",
+        "from": "Jacob Katz",
+        "link": "https://www.youtube.com/watch?v=vxjM57y53Eo"
+    },
+    {
+        "date": "2016-05-12T18:09:43.571168+00:00",
+        "from": "Pedro Sempertegui",
+        "link": "https://www.youtube.com/watch?v=tDS6rOafjHY"
+    },
+    {
+        "date": "2016-05-12T20:30:27.258838+00:00",
+        "from": "Pedro Sempertegui",
+        "link": "https://www.youtube.com/watch?v=fnb7EqfykF4"
+    },
+    {
+        "date": "2016-05-13T15:38:58.072069+00:00",
+        "from": "Pedro Sempertegui",
+        "link": "https://www.youtube.com/watch?v=qqOjirblDVA"
+    },
+    {
+        "date": "2016-05-16T16:05:13.251601+00:00",
+        "from": "Jacob Katz",
+        "link": "https://www.youtube.com/watch?v=hnx6Dp_DjYk"
+    },
+    {
+        "date": "2016-05-16T17:42:23.396590+00:00",
+        "from": "Jacob Katz",
+        "link": "https://www.youtube.com/watch?v=WRPWqQHX-gs"
+    },
+    {
+        "date": "2016-05-16T22:12:44.861947+00:00",
+        "from": "Jason Brancazio",
+        "link": "https://www.youtube.com/watch?v=Dyo_FyVRW_c"
+    },
+    {
+        "date": "2016-05-17T01:59:16.946622+00:00",
+        "from": "Jason Brancazio",
+        "link": "https://www.youtube.com/watch?v=Gcz0VsJOCLM"
+    },
+    {
+        "date": "2016-05-18T14:57:17.394780+00:00",
+        "from": "Devin Burrows",
+        "link": "https://www.youtube.com/watch?v=9QAYpuTLhVk"
     }
 ]

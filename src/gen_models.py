@@ -150,7 +150,7 @@ for msg in music_msgs:
         # Patch msg date
         msg_date = music_data_item["date"]
         del music_data_item["date"]
-        music_data_item["msg_date"] = msg_date
+        music_data_item["msg_date"] = parse(msg_date).strftime("%b %d, %Y")
 
         music_data.append(music_data_item)
         ids_dict.add(id)
