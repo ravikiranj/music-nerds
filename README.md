@@ -16,3 +16,5 @@ cd src/
 ./gen_models.py
 ./gen_html.py
 ```
+
+* Server the `static/` folder on a webserver
