@@ -5,11 +5,22 @@ import logging
 import os
 
 from jinja2 import Environment, FileSystemLoader
+from dateutil import parser
+from datetime import datetime
+
 custom_loader = FileSystemLoader(os.path.join(os.path.dirname(__file__), "../static/templates"))
 env = Environment(loader=custom_loader)
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger("get_models")
+
+
+def extract_time(model):
+    if "msg_date" not in model:
+        return datetime.now()
+    else:
+        return parser.parse(model["msg_date"])
+
 
 def get_models():
     ip_file = "../data/models/music_data.json"
@@ -27,9 +38,9 @@ def get_models():
                 youtube_videos.append(item)
 
     # Reverse lists so that they are sorted by timestamp in descending order
-    spotify_albums.reverse()
-    spotify_tracks.reverse()
-    youtube_videos.reverse()
+    spotify_albums.sort(key=extract_time, reverse=True)
+    spotify_tracks.sort(key=extract_time, reverse=True)
+    youtube_videos.sort(key=extract_time, reverse=True)
 
     return {"spotify_albums": spotify_albums, "spotify_tracks": spotify_tracks, "youtube_videos": youtube_videos}
 

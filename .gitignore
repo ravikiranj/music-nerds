@@ -70,3 +70,6 @@ out/
 
 # SASS
 static/.sass-cache/
+
+# Data
+data/*

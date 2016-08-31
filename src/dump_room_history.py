@@ -51,20 +51,21 @@ def get_json_config():
 
 config = get_json_config()
 AUTH_TOKEN = config["hipchat_auth_token"]
-# Music Nerds API Id
-room_id = config["music_room_api_id"]
-base_url = "https://" + config["hipchat_server"] + "/v2/room/%d/history" % (room_id)
+room_ids = config["room_api_ids"]
+
 today = datetime.datetime.utcnow().isoformat()
 max_res = 1000
-
 current_result = 0
-next_date = today
-while next_date is not None:
-    op_file = "../data/raw/room_history_%02d.json" % current_result
-    if current_result == 0:
-        next_date_str = get_res(base_url, str(next_date), max_res, op_file)
-        next_date = get_fixed_next_date(next_date_str)
-    else:
-        next_date_str = get_res(base_url, str(next_date), max_res, op_file)
-        next_date = get_fixed_next_date(next_date_str)
-    current_result += 1
+
+for room_id in room_ids:
+    base_url = "https://" + config["hipchat_server"] + "/v2/room/%d/history" % (room_id)
+    next_date = today
+    while next_date is not None:
+        op_file = "../data/raw/room_history_%02d.json" % current_result
+        if current_result == 0:
+            next_date_str = get_res(base_url, str(next_date), max_res, op_file)
+            next_date = get_fixed_next_date(next_date_str)
+        else:
+            next_date_str = get_res(base_url, str(next_date), max_res, op_file)
+            next_date = get_fixed_next_date(next_date_str)
+        current_result += 1
