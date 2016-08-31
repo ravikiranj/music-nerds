@@ -2,9 +2,9 @@
 {% macro render_spotify_album(album, index) -%}
     <div class="item-count">{{ index }}.</div>
     {% if album.image != None %}
-        <img class="music-item-image block-item" src="{{ album.image }}"></img>
+        <a href="{{ album.url }}"><img class="music-item-image block-item" src="{{ album.image }}"></img></a>
     {% else %}
-        <img class="music-item-image block-item" src="images/default_album_art.jpg"></img>
+        <a href="{{ album.url }}"<img class="music-item-image block-item" src="images/default_album_art.jpg"></img></a>
     {% endif %}
     <div class="music-item-info">
         <div class="title-year">
@@ -19,9 +19,9 @@
 {% macro render_spotify_track(track, index) -%}
     <div class="item-count">{{ index }}.</div>
     {% if track.image != None %}
-        <img class="music-item-image block-item" src="{{ track.image }}"/>
+        <a href="{{ track.url }}"><img class="music-item-image block-item" src="{{ track.image }}"/></a>
     {% else %}
-        <img class="music-item-image block-item" src="images/default_art.jpg"/>
+        <a href="{{ track.url }}"><img class="music-item-image block-item" src="images/default_art.jpg"/></a>
     {% endif %}
     <div class="music-item-info">
         <div class="title-year">
@@ -36,9 +36,9 @@
 {% macro render_youtube_video(youtube_video, index) -%}
     <div class="item-count">{{ index }}.</div>
     {% if youtube_video.image != None %}
-        <img class="music-item-image block-item" src="{{ youtube_video.image }}"/>
+        <a href="{{ youtube_video.url }}"><img class="music-item-image block-item" src="{{ youtube_video.image }}"/></a>
     {% else %}
-        <img class="music-item-image block-item" src="images/default_art.jpg"/>
+        <a href="{{ youtube_video.url }}"><img class="music-item-image block-item" src="images/default_art.jpg"/></a>
     {% endif %}
     <div class="music-item-info">
         <div class="title">
