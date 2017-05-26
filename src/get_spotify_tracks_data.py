@@ -40,7 +40,7 @@ count = 0
 ip_file = "../data/filtered/music_messages.json"
 op_file = "../data/spotify_tracks/spotify_tracks.json"
 tracks = []
-max_tracks = 20
+max_tracks = 1
 
 with open(ip_file, "r") as ip:
     jsonData = simplejson.load(ip)
@@ -56,11 +56,14 @@ tracks_data = []
 track_chunks = chunks(tracks, max_tracks)
 for track_chunk in track_chunks:
     logger.info("Triggered spotify query for track_chunk = %s", ','.join(track_chunk))
-    jsonData = get_spotify_data(track_chunk)
-    if "tracks" in jsonData:
-        tracks_data.append(jsonData["tracks"])
-    else:
-        raise Exception("Unable to find tracks data in response, resp = ", jsonData)
+    try:
+        jsonData = get_spotify_data(track_chunk)
+        if "tracks" in jsonData:
+            tracks_data.append(jsonData["tracks"])
+        else:
+            print "Unable to find tracks data in response for track_chunk = %s" % str(track_chunk)
+    except:
+        print "Encountered exception for track_chunk = %s" % str(track_chunk)
 
 tracks_data = list(itertools.chain.from_iterable(tracks_data))
 with open(op_file, "w") as op:

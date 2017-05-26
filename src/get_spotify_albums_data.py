@@ -39,7 +39,7 @@ count = 0
 ip_file = "../data/filtered/music_messages.json"
 op_file = "../data/spotify_albums/spotify_albums.json"
 albums = []
-max_albums = 20
+max_albums = 1
 
 with open(ip_file, "r") as ip:
     jsonData = simplejson.load(ip)
@@ -55,11 +55,15 @@ albums_data = []
 album_chunks = chunks(albums, max_albums)
 for album_chunk in album_chunks:
     logger.info("Triggered spotify query for album_chunk = %s", ','.join(album_chunk))
-    jsonData = get_spotify_data(album_chunk)
-    if "albums" in jsonData:
-        albums_data.append(jsonData["albums"])
-    else:
-        raise Exception("Unable to find albums data in response, resp = ", jsonData)
+    try:
+        jsonData = get_spotify_data(album_chunk)
+        if "albums" in jsonData:
+            albums_data.append(jsonData["albums"])
+        else:
+            print "Unable to find albums data for album_chunk = %s" % str(album_chunk)
+    except:
+        print "Encountered exception for album_chunk = %s" % (str(album_chunk))
+
 
 albums_data = list(itertools.chain.from_iterable(albums_data))
 with open(op_file, "w") as op:

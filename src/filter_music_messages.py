@@ -9,7 +9,7 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger("filter_music_messages")
 
 op_file = "../data/filtered/music_messages.json"
-spotify_regex = re.compile(r".*\b(http:\/\/open\.spotify\.com[^\s\n,.]+)\b.*")
+spotify_regex = re.compile(r".*\b(https?:\/\/open\.spotify\.com[^\s\n,.]+)\b.*")
 youtube_regex = re.compile(r".*\b(https?:\/\/(www\.)?(youtube\.com|youtu\.be)[^\s,.\n]+)\b.*")
 
 msgs = []
