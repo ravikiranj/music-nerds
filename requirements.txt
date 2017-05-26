@@ -1,0 +1,4 @@
+Jinja2==2.7.3
+requests==2.9.1
+python_dateutil==2.6.0
+simplejson==3.10.0

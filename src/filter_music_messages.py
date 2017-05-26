@@ -28,7 +28,10 @@ for ip_file in glob.glob("../data/raw/room_history*.json"):
             else:
                 music_link = youtube_matches.group(1)
             d = item["date"]
-            from_user = item["from"]["name"]
+            if "from" in item and "name" in item["from"]:
+                from_user = item["from"]["name"]
+            else:
+                from_user = "Unknown User"
             msgs.append({"date": d, "from": from_user, "link": music_link})
             count += 1
 
